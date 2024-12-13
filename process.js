@@ -23,10 +23,15 @@ const kebabToSentenceCase = (str) =>
 const toKB = (bytes) => (bytes / 1024).toFixed(2) + ' KB';
 const toMB = (bytes) => (bytes / 1024 / 1024).toFixed(2) + ' MB';
 
-const download = async (grade, year, month, paperName, url) => {
+const randomChars = (length) =>
+  Array.from({ length }, () =>
+    String.fromCharCode(Math.floor(Math.random() * 26) + 97)
+  ).join('');
+
+const download = async (grade, year, month, paperName, url, paperNumber) => {
   const fs = require('fs');
   const path = `./files/${grade}/${year}/${month}`;
-  const filePath = `${path}/${paperName}.pdf`;
+  const filePath = `${path}/${paperName}-${paperNumber}-${randomChars(3)}.pdf`;
 
   // Ensure the directory exists
   fs.mkdirSync(path, { recursive: true });
@@ -84,10 +89,11 @@ const downloadAndSaveUrlAndReturnPath = async (
   year,
   month,
   paperName,
-  url
+  url,
+  paperNumber
 ) => {
   // Directly await the download to ensure sequential execution
-  await download(grade, year, month, paperName, url);
+  await download(grade, year, month, paperName, url, paperNumber);
   return `./files/${grade}/${year}/${month}/${paperName}.pdf`;
 };
 
@@ -226,12 +232,14 @@ const buildPapers = async (grade, year, month, file) => {
         month +
         '-' +
         year;
+      '-' + '-paper-' + number + '-' + language;
       const filePath = await downloadAndSaveUrlAndReturnPath(
         grade,
         year,
         month,
         id,
-        `${url}&forcedownload=true`
+        `${url}&forcedownload=true`,
+        number
       );
       papers.push({
         canonicalName,
@@ -259,4 +267,4 @@ const buildPapers = async (grade, year, month, file) => {
   fs.writeFileSync(path, JSON.stringify(newData, null, 2));
 };
 
-buildPapers(12, 2022, 'November', './scrapedData/2022-nov-grade-12.json');
+buildPapers(12, 2022, 'June', './scrapedData/2022-june-grade-12.json');
