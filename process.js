@@ -35,11 +35,12 @@ const download = async (
   paperName,
   url,
   paperNumber,
-  canonicalName
+  canonicalName,
+  type
 ) => {
   const fs = require('fs');
   const path = `./files/${grade}/${year}/${month}`;
-  const filePath = `${path}/${paperName}-${paperNumber}-${canonicalName}.pdf`;
+  const filePath = `${path}/${paperName}-${paperNumber}-${canonicalName}-${type}.pdf`;
 
   // Ensure the directory exists
   fs.mkdirSync(path, { recursive: true });
@@ -99,7 +100,8 @@ const downloadAndSaveUrlAndReturnPath = async (
   paperName,
   url,
   paperNumber,
-  canonicalName
+  canonicalName,
+  type
 ) => {
   // Directly await the download to ensure sequential execution
   await download(
@@ -109,9 +111,10 @@ const downloadAndSaveUrlAndReturnPath = async (
     paperName,
     url,
     paperNumber,
-    canonicalName
+    canonicalName,
+    type
   );
-  return `./files/${grade}/${year}/${month}/${paperName}-${paperNumber}-${canonicalName}.pdf`;
+  return `./files/${grade}/${year}/${month}/${paperName}-${paperNumber}-${canonicalName}-${type}.pdf`;
 };
 
 const provinces = [
@@ -197,11 +200,19 @@ const buildPapers = async (grade, year, month, file) => {
       );
 
       const number = getPaperNumber(canonicalName);
-      const type = canonicalName.includes('Memo') ? 'memo' : 'paper';
+
       const language = canonicalName.includes('Afrikaans')
         ? 'Afrikaans'
         : 'English';
       const hasAddendum = canonicalName.includes('Addendum');
+      const type =
+        hasAddendum && canonicalName.includes('Memo')
+          ? 'extra-paper-memo'
+          : hasAddendum
+          ? 'extra-paper'
+          : canonicalName.includes('Memo')
+          ? 'memo'
+          : 'exam';
       const name = getPaperName(subject, number, type, language, hasAddendum);
       const id =
         toKebab(subject) +
@@ -221,7 +232,8 @@ const buildPapers = async (grade, year, month, file) => {
         id,
         `${url}&forcedownload=true`,
         number,
-        toKebab(canonicalName)
+        toKebab(canonicalName),
+        type
       );
       papers.push({
         canonicalName,
