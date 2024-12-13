@@ -1,0 +1,1907 @@
+[
+  {
+    "id": "afrikaans",
+    "papers": [
+      {
+        "name": "Afrikaans FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=biJRkz_Tf9o%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans FAL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=s2dd7_pHlSs%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=2IwoNJPtpL8%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans FAL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=vpi7Kx4Qn9Y%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=upZGeS13OAg%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans FAL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=B0eswmRxkCY%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ctrUau7YlU4%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans HL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=6tpYlECXbnM%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=nQccJ1YSDwo%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans HL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-ObDw9B4XHY%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ojdhN9m-U8w%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans HL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=WUKC3dwjhtg%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P1 ",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=hlnpngN7xyM%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P1 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=iylvoQtiMTc%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (Eastern Cape)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ka-JVnSFspI%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (Free State)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=AWfyZIQbOxs%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (Gauteng)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=NZXaFuIG5ts%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (KwaZulu-Natal)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=HErvw3lbMd8%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (Limpopo)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_coF9Rmt2QQ%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (Mpumalanga)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=44L6_HrNDfI%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (North West)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7FivuHrhLE4%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (Northern Cape)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=uWGwkuRBWTI%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 (Western Cape)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Fy4UDXnFfFM%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (Eastern Cape)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=BZIQ8oSbbWs%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (Free State)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=aTqfnTkY0Cw%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (Gauteng)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4kH30OFmdjc%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (KwaZulu-Natal)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DUDR2hTsZ-s%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (Limpopo)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=5uxi2jS9L98%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (Mpumalanga)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=b3XvQy6S23c%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (North West)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=EOYX2Q-5LDY%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P2 memo (Western Cape)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=uY9dEfqWLao%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=AbYBJTrl3Y4%3d&tabid=2922&portalid=0&mid=10167"
+      },
+      {
+        "name": "Afrikaans SAL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=lCIW2_z8exA%3d&tabid=2922&portalid=0&mid=10167"
+      }
+    ]
+  },
+
+  {
+    "id": "english",
+    "papers": [
+      {
+        "name": "English FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xYYCutEfS_o%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English FAL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_DJ1qtmeEaQ%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mI4DiSjDy9Q%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English FAL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=tnKoxp6NBJs%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=HgE2qwbdjTs%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English FAL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=d8izGJ_Ksww%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8M2OZLlkMA4%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English HL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xH4Yn6w0qeA%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gXE-hwPulps%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English HL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=63FctOJKGB4%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=87RmXBRcg44%3d&tabid=2922&portalid=0&mid=10168"
+      },
+      {
+        "name": "English HL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=BcK9EtkDZps%3d&tabid=2922&portalid=0&mid=10168"
+      }
+    ]
+  },
+  {
+    "id": "isindebele",
+    "papers": [
+      {
+        "name": "IsiNdebele FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ngXbejQpfS0%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele FAL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=3V6lc0ZbjsA%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Qe_yeC-fthE%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele FAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Qe_yeC-fthE%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=NpggDidPuMA%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele FAL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=EwMy0haHpjA%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=LCNFH5IHZ70%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele HL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=rOGW9wW8k94%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=c2_zqwSDTCE%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele HL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=RPqB4_NBzU8%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=aILxGNxF8OE%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele HL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DkAOscZM7Mw%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele SAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=eTk89maPagM%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele SAL P1 Nov  Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7bfoYwnnQVw%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele SAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=aZ91UtxT8FE%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele SAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=s3JAX3KDWPY%3d&tabid=2922&portalid=0&mid=10169"
+      }
+    ]
+  },
+  {
+    "id": "isixhosa",
+    "papers": [
+      {
+        "name": "IsiNdebele SAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YL1TIVbIGUs%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiNdebele SAL P3 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=sGk25zzRm5I%3d&tabid=2922&portalid=0&mid=10169"
+      },
+      {
+        "name": "IsiXhosa FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ktFdot117Qk%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa SAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=STZ26i99170%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa SAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=RfM7cAoxAjE%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa SAL P1 Nov  Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=762xHxo8TSI%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa SAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=JIErXATmKyU%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa HL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=lEqF1Z6XkHI%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=h8iqXqGncPE%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa HL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4col4f3GxQg%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_c_MpuG_WiI%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa HL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xth8Lt88lx4%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QGThXR_NqpY%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa FAL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=SvOiO382peA%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=kHWHVud1BpQ%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa FAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=fzdkLnN_ItU%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=200qEXrJJSo%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa FAL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Mxncfme5cys%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa SAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=XyzMN6NAHeE%3d&tabid=2922&portalid=0&mid=10176"
+      },
+      {
+        "name": "IsiXhosa SAL P3 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=rNGlVnCL4r4%3d&tabid=2922&portalid=0&mid=10176"
+      }
+    ]
+  },
+
+  {
+    "id": "isizulu",
+    "papers": [
+      {
+        "name": "IsiZulu FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=XyCh5RRyIto%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu SAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=STZ26i99170%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu SAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=TDQoA5tf2v4%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu SAL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=9HFDDTOujLs%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu SAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=PZPptlu94RY%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu HL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8IPLMznWU70%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_757fB4XGWI%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu HL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=woW9RpbZWqE%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=q8u4cXW9iIQ%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu HL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=b6zY8DdG02Y%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=6IQ6zkeqLec%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu FAL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=yz_lhj1IBCg%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=brCuJe8gBqg%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu FAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=qJ7I4TQIZOE%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8ckonYd_6L0%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu FAL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=bI7CJ7uRo_M%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu SAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=XkiSzlDlIU8%3d&tabid=2922&portalid=0&mid=10179"
+      },
+      {
+        "name": "IsiZulu SAL P3 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=CjuJnE0uOCw%3d&tabid=2922&portalid=0&mid=10179"
+      }
+    ]
+  },
+
+  {
+    "id": "south-african-sign-language",
+    "papers": [
+      {
+        "name": "SASL HL Memo 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=y-FtX81tAqc%3d&tabid=2922&portalid=0&mid=10181"
+      },
+      {
+        "name": "SASL HL Memo 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=SjUeH_tvhs0%3d&tabid=2922&portalid=0&mid=10181"
+      },
+      {
+        "name": "SASL HL Memo 3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=03xxq4eCeE8%3d&tabid=2922&portalid=0&mid=10181"
+      },
+      {
+        "name": "SASL HL Paper 1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=qZr4lpWROI8%3d&tabid=2922&portalid=0&mid=10181"
+      },
+      {
+        "name": "SASL HL Paper 2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=2BqXKpLmyfM%3d&tabid=2922&portalid=0&mid=10181"
+      },
+      {
+        "name": "SASL HL Paper 3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Pvz83Do5RYY%3d&tabid=2922&portalid=0&mid=10181"
+      }
+    ]
+  },
+
+  {
+    "id": "sepedi",
+    "papers": [
+      {
+        "name": "Sepedi FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=v0mHFnRi8s4%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi SAL P2 Memo (Limpopo)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=joWoI47idOg%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi SAL P2 (Gauteng)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gfTZigcf8oc%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi P2 SAL (Limpopo)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Cqo13erIdO4%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi HL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_SQiqjRJfcg%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wrxRrYSJxWg%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi HL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=09hrsGh8TZM%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi SAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=uygfiEtMi8o%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=hgFN5chfm2I%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=VyeJOL9MwHY%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi FAL P3 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=BGlb0WrPGIk%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=RNJNQhD1SJw%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi FAL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ye1eHi7sF4k%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=lOd6Y4NrUg4%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi FAL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7e-RnMhJDyo%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi HL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=oty3gZIvMwk%3d&tabid=2922&portalid=0&mid=10171"
+      },
+      {
+        "name": "Sepedi SAL P3 Memo ",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=K3r8iB4MBSU%3d&tabid=2922&portalid=0&mid=10171"
+      }
+    ]
+  },
+
+  {
+    "id": "setswana",
+    "papers": [
+      {
+        "name": "Setswana FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=2ee5AVq4SVk%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana Fal P1 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=amBXqLQ4H4Y%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=WpuTWTytLbA%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana FAL P2 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=WpuTWTytLbA%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=oKE3EPLz1ZA%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana FAL P3 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=L15Y1uJ2_PA%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_0ByGt1SgRk%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana HL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ops6vJ0wxgQ%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=rWIHqQFWG70%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana HL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=p-x2F7jougI%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Iv_n0GyH430%3d&tabid=2922&portalid=0&mid=10172"
+      },
+      {
+        "name": "Setswana HL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=B7pBWJZIjjA%3d&tabid=2922&portalid=0&mid=10172"
+      }
+    ]
+  },
+
+  {
+    "id": "sesotho",
+    "papers": [
+      {
+        "name": "Sesotho FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=zIANGNLlUsU%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho SAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=kgkXw92wLD8%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho SAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=XjRgEqLsGKA%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho SAL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4viCLLjjKlQ%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho SAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=07pV6elqLVw%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho HL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=KGBhaAInspM%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=V303yvUxnRc%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho HL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=kpnsVvQQdGw%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=tKzaSD9TobA%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho HL P1 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=SJhnWdLCJTU%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0UP_9ujAGsg%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho FAL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0REHv0He288%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0K15Oes4ia4%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho FAL P2 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ojYS73d7EW4%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0dNAyyAlhqE%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho FAL P1 Nov  Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_-wFFMicYDU%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho SAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=yyfWFrEPVDA%3d&tabid=2922&portalid=0&mid=10180"
+      },
+      {
+        "name": "Sesotho SAL P3 Nov Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1Zg7ZRopvbM%3d&tabid=2922&portalid=0&mid=10180"
+      }
+    ]
+  },
+
+  {
+    "id": "siswati",
+    "papers": [
+      {
+        "name": "Siswati FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DvpoYisORVI%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati FAL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=lX1AqboBEz8%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=CrOc-YcSFaA%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati FAL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=lIrP-lEtAB8%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=B5rpAwND7FA%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati FAL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=vV2WxgA7UZk%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xJU9t81zmDM%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati HL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=nnrXGeDH-po%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YCES6vCS_ds%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati HL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=VCelnlEiUqA%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8oytMezr570%3d&tabid=2922&portalid=0&mid=10173"
+      },
+      {
+        "name": "Siswati HL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YWhJ7lxJUWA%3d&tabid=2922&portalid=0&mid=10173"
+      }
+    ]
+  },
+
+  {
+    "id": "tshivenda",
+    "papers": [
+      {
+        "name": "Tshivenda FAL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1UJfbBn_iG4%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda FAL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=F4gxALrm6S8%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=b08j_P8l6nA%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda FAL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DwCfjyO2KOU%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda FAL P3 ",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=uJRWivWagCk%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda FAL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=uc-3--9OiyE%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=qCguNrj9Cwg%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda HL P1 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=qCguNrj9Cwg%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=bahR0Dq0DsM%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda HL P2 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=BkpciIfxspg%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mVz8FPZ8Yy8%3d&tabid=2922&portalid=0&mid=10174"
+      },
+      {
+        "name": "Tshivenda HL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0maot5wKbOQ%3d&tabid=2922&portalid=0&mid=10174"
+      }
+    ]
+  },
+
+  {
+    "id": "xitsonga",
+    "papers": [
+      {
+        "name": "Xitsonga FAL P1 ",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=PYJGVxKQIWw%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga FAL P1 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=9Jq8X27Lsok%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga FAL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mka3najtjHY%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga FAL P2 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=yor3CcpeSWw%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga FAL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-O8L6S8kKlc%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga FAL P3 memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xUHVPA3qoeo%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga HL P1",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=dq_9rgL_1w8%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga HL P1 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=jgluGlY5QTY%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga HL P2",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=F-0PzqEB0Fk%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga HL P2 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=kJgFPvrTAzE%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga HL P3",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=NhADuqdfn2k%3d&tabid=2922&portalid=0&mid=10175"
+      },
+      {
+        "name": "Xitsonga HL P3 Memo",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Vgb4jCxja4s%3d&tabid=2922&portalid=0&mid=10175"
+      }
+    ]
+  },
+  {
+    "id": "accounting",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wJb-FrwugBs%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=jlfzfpLx8uM%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=iUpjOIOenYM%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=sytwGt0dHoc%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-lMPpEr5tiY%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=IMBGaSdEu0w%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 1 Answer Book (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QxLr9zUHXDg%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 1 Answer Book (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=jPzq1MgWvNw%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=bcRzY-HZ_rQ%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8L2N3S3KQtE%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 2 Answerbook (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=nOsmt7qDZek%3d&tabid=2922&portalid=0&mid=10113"
+      },
+      {
+        "name": "Paper 2 Answerbook (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=JncqZHhEpzA%3d&tabid=2922&portalid=0&mid=10113"
+      }
+    ]
+  },
+  {
+    "id": "agricultural-management-practices",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ENgO-z9kpC4%3d&tabid=2922&portalid=0&mid=10115"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Rxa87xZ_pXA%3d&tabid=2922&portalid=0&mid=10115"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=2S1xxsf21WE%3d&tabid=2922&portalid=0&mid=10115"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=hy9q36v8ZJU%3d&tabid=2922&portalid=0&mid=10115"
+      }
+    ]
+  },
+  {
+    "id": "agricultural-sciences",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=UI4aKMOIBHs%3d&tabid=2922&portalid=0&mid=10116"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=TkKmhDW4_ow%3d&tabid=2922&portalid=0&mid=10116"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mkZQtPuv2Gs%3d&tabid=2922&portalid=0&mid=10116"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=vEJbxcixhhQ%3d&tabid=2922&portalid=0&mid=10116"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Z9W0Ae_E3E8%3d&tabid=2922&portalid=0&mid=10116"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=f8xSSxCw3MU%3d&tabid=2922&portalid=0&mid=10116"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=AnWrGuIqd3w%3d&tabid=2922&portalid=0&mid=10116"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=da0OrN6xZaI%3d&tabid=2922&portalid=0&mid=10116"
+      }
+    ]
+  },
+  {
+    "id": "agricultural-technology",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8au211NzWOA%3d&tabid=2922&portalid=0&mid=10117"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Tdt7KS97mU0%3d&tabid=2922&portalid=0&mid=10117"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=AR5WENAqg1Y%3d&tabid=2922&portalid=0&mid=10117"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Tdt7KS97mU0%3d&tabid=2922&portalid=0&mid=10117"
+      }
+    ]
+  },
+  {
+    "id": "business-studies",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=aaeLwf30Wkw%3d&tabid=2922&portalid=0&mid=10118"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4JcdxuJy6a0%3d&tabid=2922&portalid=0&mid=10118"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=5P84r78PN64%3d&tabid=2922&portalid=0&mid=10118"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=50_YOcEOpgA%3d&tabid=2922&portalid=0&mid=10118"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gpWuxh1_4Cw%3d&tabid=2922&portalid=0&mid=10118"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=emPQFCQG278%3d&tabid=2922&portalid=0&mid=10118"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=fvqEgDSBChE%3d&tabid=2922&portalid=0&mid=10118"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=9W_YphuZjmI%3d&tabid=2922&portalid=0&mid=10118"
+      }
+    ]
+  },
+  {
+    "id": "civil-technology",
+    "papers": [
+      {
+        "name": " Civil Services Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ffrGR80edqE%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": " Woodworking Memo 1 (Afrikaans) ",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YXLf6IyYliA%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": " Woodworking Memo 1 (English) ",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Wm3K5ALsC5Y%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": " Woodworking Paper 1 (Afrikaans) ",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QufhD7Dodnw%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Civil Services Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=aERJJ7biAHw%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Civil Services Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=kGIqGNOy-tA%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Civil Services Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DM2eSDLRN3o%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Construction Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=HV_GkTfMBs8%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Construction Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=F4nmq_C69Ww%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Construction Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=3D0wB6XbKbo%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Construction Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=JBhFhq5pJgw%3d&tabid=2922&portalid=0&mid=10120"
+      },
+      {
+        "name": "Woodworking Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=oRMXn3UAQ3U%3d&tabid=2922&portalid=0&mid=10120"
+      }
+    ]
+  },
+
+  {
+    "id": "computer-applications-technology",
+    "papers": [
+      {
+        "name": "Data Files (MS Office)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=a_dkb-L0Br0%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=k_RtBpVZZVE%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=L8-JTcWiPTE%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=BC80_neLIhc%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=czoKn89UJ-8%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=6IFdMr_18_A%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_NQV-8Drhis%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=vWE0PSlJCDQ%3d&tabid=2922&portalid=0&mid=10121"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=vHE6GzLgF14%3d&tabid=2922&portalid=0&mid=10121"
+      }
+    ]
+  },
+
+  {
+    "id": "consumer-studies",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=47HyyVNnMyA%3d&tabid=2922&portalid=0&mid=10122"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=HuSFIr-JO4U%3d&tabid=2922&portalid=0&mid=10122"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1TZ10njL_nk%3d&tabid=2922&portalid=0&mid=10122"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=kaxvzK5HlxQ%3d&tabid=2922&portalid=0&mid=10122"
+      }
+    ]
+  },
+
+  {
+    "id": "dance-studies",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=czsFfkmihyE%3d&tabid=2922&portalid=0&mid=10123"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gQGGyn8O__g%3d&tabid=2922&portalid=0&mid=10123"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Fxsmi_zTPns%3d&tabid=2922&portalid=0&mid=10123"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=FJTf9ZJ7QAo%3d&tabid=2922&portalid=0&mid=10123"
+      }
+    ]
+  },
+
+  {
+    "id": "design",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=nEHaLDrYHa4%3d&tabid=2922&portalid=0&mid=10124"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wS7XT-MldLU%3d&tabid=2922&portalid=0&mid=10124"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=iGMJkL-LNVI%3d&tabid=2922&portalid=0&mid=10124"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-Ivfi6PJL5w%3d&tabid=2922&portalid=0&mid=10124"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=5yG99Pt0D8k%3d&tabid=2922&portalid=0&mid=10124"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=yPOuOETALxI%3d&tabid=2922&portalid=0&mid=10124"
+      }
+    ]
+  },
+  {
+    "id": "dramatic-arts",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=IlyJ2pMuQmk%3d&tabid=2922&portalid=0&mid=10125"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YkBRhw79sbU%3d&tabid=2922&portalid=0&mid=10125"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=8fcOT2txB2w%3d&tabid=2922&portalid=0&mid=10125"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=rAC89n54jrw%3d&tabid=2922&portalid=0&mid=10125"
+      }
+    ]
+  },
+
+  {
+    "id": "economics",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=hjphJpomDdk%3d&tabid=2922&portalid=0&mid=10126"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=fu3ri8ZrDpA%3d&tabid=2922&portalid=0&mid=10126"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=en3_Vr3eow8%3d&tabid=2922&portalid=0&mid=10126"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=oc1UpirI-Lc%3d&tabid=2922&portalid=0&mid=10126"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=VmjqYNVI-Xc%3d&tabid=2922&portalid=0&mid=10126"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=sBCrCimV25U%3d&tabid=2922&portalid=0&mid=10126"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Lclmh78HPxI%3d&tabid=2922&portalid=0&mid=10126"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=VTOyhQRnp2w%3d&tabid=2922&portalid=0&mid=10126"
+      }
+    ]
+  },
+
+  {
+    "id": "electrical-technology",
+    "papers": [
+      {
+        "name": "Digitals Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YKn7YKXOGK4%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Digitals Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QE05ZSQxfqg%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Digitals Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=16cfV6bzd6E%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Digitals Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=bx59P0o0Q5Y%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Electronics Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=lKMac2uhO84%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Electronics Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=SJX-c0zJUyY%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Electronics Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-Y2rwBbPITM%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Electronics Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Rj-W0oONnYA%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Power Systems Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gAEEasjfIGQ%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Power Systems Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gmiGgho9jiw%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Power Systems Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=oEnukcssn4w%3d&tabid=2922&portalid=0&mid=10127"
+      },
+      {
+        "name": "Power Systems Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=eqkb7XNq6rs%3d&tabid=2922&portalid=0&mid=10127"
+      }
+    ]
+  },
+
+  {
+    "id": "engineering-graphic-and-design",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=UJ8u8hNwmKA%3d&tabid=2922&portalid=0&mid=10128"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=REAfu6iFHfs%3d&tabid=2922&portalid=0&mid=10128"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1RUOcxIwWm4%3d&tabid=2922&portalid=0&mid=10128"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=SVKsF4rW5WU%3d&tabid=2922&portalid=0&mid=10128"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=UbMPlYKkzC4%3d&tabid=2922&portalid=0&mid=10128"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=fRtjkc3udRI%3d&tabid=2922&portalid=0&mid=10128"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=IVzBlY5IP0c%3d&tabid=2922&portalid=0&mid=10128"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mP91xoDTgxU%3d&tabid=2922&portalid=0&mid=10128"
+      }
+    ]
+  },
+
+  {
+    "id": "geography",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=r1MIwU4giNM%3d&tabid=2922&portalid=0&mid=10129"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=K2v2E_P9Fg4%3d&tabid=2922&portalid=0&mid=10129"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=qxQp6CcFmMM%3d&tabid=2922&portalid=0&mid=10129"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QjPksTfVSIE%3d&tabid=2922&portalid=0&mid=10129"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=t1P4LVgbP4g%3d&tabid=2922&portalid=0&mid=10129"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mVTAFza9KK0%3d&tabid=2922&portalid=0&mid=10129"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DUWF0nATw-I%3d&tabid=2922&portalid=0&mid=10129"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xU-y2hGajP8%3d&tabid=2922&portalid=0&mid=10129"
+      }
+    ]
+  },
+
+  {
+    "id": "history",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7ueYoavP36M%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=k_Yo-6PqwSI%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=TRKCT_gsR5I%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=G55i8VG5ZeY%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Y-2R2vndhDg%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7xVP74uoqJ4%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 1 Addendum (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=pvKlYUhdwEk%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 1 Addendum (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wLxTYqIK1jk%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=PTEGmegJgw4%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=azxDXVZ49Kk%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 2 Addendum (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=JFOP4I5RiCE%3d&tabid=2922&portalid=0&mid=10130"
+      },
+      {
+        "name": "Paper 2 Addendum (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=6BJMYZMig8s%3d&tabid=2922&portalid=0&mid=10130"
+      }
+    ]
+  },
+
+  {
+    "id": "hospitality-studies",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=uzBgXAeTVS0%3d&tabid=2922&portalid=0&mid=10131"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=pQ39l5iH_8E%3d&tabid=2922&portalid=0&mid=10131"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=VDEyYY83FwA%3d&tabid=2922&portalid=0&mid=10131"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=h1DFjBXRQ5E%3d&tabid=2922&portalid=0&mid=10131"
+      }
+    ]
+  },
+
+  {
+    "id": "information-technology",
+    "papers": [
+      {
+        "name": "Data Files (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=k-Pxce9LZX4%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Data Files (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Lfrqdvvzim0%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=cVgnDQl7Ps8%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4RtrWKJ0a5A%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=eq6l5jBcGMw%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=cm-3ltQxVfU%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=6ZMHEqzR2js%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xtinVUnWOSY%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=40xI5gt91Iw%3d&tabid=2922&portalid=0&mid=10132"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=S-C9p9fo2eM%3d&tabid=2922&portalid=0&mid=10132"
+      }
+    ]
+  },
+
+  {
+    "id": "life-orientation",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ZveOM-LcMbc%3d&tabid=2922&portalid=0&mid=10148"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=xgW9goZ6KuQ%3d&tabid=2922&portalid=0&mid=10148"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=nd5sm20GC1c%3d&tabid=2922&portalid=0&mid=10148"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=M1QO6apZtHE%3d&tabid=2922&portalid=0&mid=10148"
+      }
+    ]
+  },
+
+  {
+    "id": "life-sciences",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=hLVDpTrjSts%3d&tabid=2922&portalid=0&mid=10133"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=cVnYaId3EAQ%3d&tabid=2922&portalid=0&mid=10133"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=DT5grPR3zKY%3d&tabid=2922&portalid=0&mid=10133"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=zAgZ5j1q78k%3d&tabid=2922&portalid=0&mid=10133"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=OQTmjoqaXio%3d&tabid=2922&portalid=0&mid=10133"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=vlfOOXXMFX0%3d&tabid=2922&portalid=0&mid=10133"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=ZPXO3bgpz3c%3d&tabid=2922&portalid=0&mid=10133"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=01TyV_uHA90%3d&tabid=2922&portalid=0&mid=10133"
+      }
+    ]
+  },
+
+  {
+    "id": "mathematical-literacy",
+    "papers": [
+      {
+        "name": "Memo 1 (Afrikaans and English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7fBLcV06Hhc%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Memo 2 (Afrikaans and English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mKiUgs62R3k%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YmT0xkZANvQ%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mcF9POk9trQ%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 1 Addendum (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=i-fck98lOd8%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 1 Addendum (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=MYSdsVOWby4%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=7h9do7dSPYw%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=yd34t3chxo4%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 2 Addendum (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=5zNcHV2XA60%3d&tabid=2922&portalid=0&mid=10134"
+      },
+      {
+        "name": "Paper 2 Addendum (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=-L3FerwFr_w%3d&tabid=2922&portalid=0&mid=10134"
+      }
+    ]
+  },
+
+  {
+    "id": "mathematics",
+    "papers": [
+      {
+        "name": "Paper 2 Answerbook (English & Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=mA7N3HwvvaE%3d&tabid=2922&portalid=0&mid=10135"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=jgMJbW3Aa0o%3d&tabid=2922&portalid=0&mid=10135"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=RuztUNr2dh4%3d&tabid=2922&portalid=0&mid=10135"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=sGgq9FNv0lQ%3d&tabid=2922&portalid=0&mid=10135"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=nkSImSv3enc%3d&tabid=2922&portalid=0&mid=10135"
+      },
+      {
+        "name": "Memo 2 (Afrikaans & English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=s7hK0H8bqPM%3d&tabid=2922&portalid=0&mid=10135"
+      },
+      {
+        "name": "Memo 1 (Afrikaans and English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=LJo4MZ4DRZM%3d&tabid=2922&portalid=0&mid=10135"
+      }
+    ]
+  },
+
+  {
+    "id": "marine-sciences",
+    "papers": [
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=pdqpTFtnbCY%3d&tabid=2922&portalid=0&mid=10147"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=H4lwORhw6eQ%3d&tabid=2922&portalid=0&mid=10147"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wRI2GegGst8%3d&tabid=2922&portalid=0&mid=10147"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=yrvxBIfBR2o%3d&tabid=2922&portalid=0&mid=10147"
+      }
+    ]
+  },
+
+  {
+    "id": "mechanical-technology",
+    "papers": [
+      {
+        "name": "Welding and Metalwork Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=A2DGHXRiPT4%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Welding and Metalwork Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=LoCEW58Y98c%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Welding and Metalwork Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=LirI7Yrc_jQ%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Welding and Metalwork Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=JotZPKs7OXQ%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Fitting and Machining Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=tE0_HexpbZ0%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Fitting and Machining Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0zGMf8a5RnM%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Fitting and Machining Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4ltlgkj78T4%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Fitting and Machining Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=h_sc9OkaJGc%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Automative Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=EbLcMXpEiCs%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Automative Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=eYPfT1mkTSs%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Automative Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=FbCuMJp076w%3d&tabid=2922&portalid=0&mid=10136"
+      },
+      {
+        "name": "Automative Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=EIy2dBaZvPk%3d&tabid=2922&portalid=0&mid=10136"
+      }
+    ]
+  },
+
+  {
+    "id": "music",
+    "papers": [
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=rjwls6o7gVg%3d&tabid=2922&portalid=0&mid=10137"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=itEyTUKZ-xU%3d&tabid=2922&portalid=0&mid=10137"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1zoQGlPQnB8%3d&tabid=2922&portalid=0&mid=10137"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1jSjghTL8Zg%3d&tabid=2922&portalid=0&mid=10137"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=eKcitZ2vOZI%3d&tabid=2922&portalid=0&mid=10137"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=PLsYwyZlnQQ%3d&tabid=2922&portalid=0&mid=10137"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=OCC8W8tzuSo%3d&tabid=2922&portalid=0&mid=10137"
+      },
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=UspYhx2UehI%3d&tabid=2922&portalid=0&mid=10137"
+      }
+    ]
+  },
+
+  {
+    "id": "physical-sciences",
+    "papers": [
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=oI4BAzXUMNA%3d&tabid=2922&portalid=0&mid=10138"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=AajTTycG078%3d&tabid=2922&portalid=0&mid=10138"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=unBWzCuezsM%3d&tabid=2922&portalid=0&mid=10138"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=KtqBRunXGFg%3d&tabid=2922&portalid=0&mid=10138"
+      },
+      {
+        "name": "Memo 2 (English & Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gmvfHOKfxws%3d&tabid=2922&portalid=0&mid=10138"
+      },
+      {
+        "name": "Memo 1 (English & Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=VCtYr0giXYw%3d&tabid=2922&portalid=0&mid=10138"
+      }
+    ]
+  },
+
+  {
+    "id": "religion-studies",
+    "papers": [
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0nw8yw4-bes%3d&tabid=2922&portalid=0&mid=10139"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=emZrMRVWBzM%3d&tabid=2922&portalid=0&mid=10139"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=bwye0sI2InI%3d&tabid=2922&portalid=0&mid=10139"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=lCuXrXV7POc%3d&tabid=2922&portalid=0&mid=10139"
+      },
+      {
+        "name": "Memo 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=z8OC60LFZa0%3d&tabid=2922&portalid=0&mid=10139"
+      },
+      {
+        "name": "Memo 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=KI2f25EzVfg%3d&tabid=2922&portalid=0&mid=10139"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Q8gU4govovY%3d&tabid=2922&portalid=0&mid=10139"
+      },
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=2e3lSN9KZrI%3d&tabid=2922&portalid=0&mid=10139"
+      }
+    ]
+  },
+
+  {
+    "id": "technical-mathematics",
+    "papers": [
+      {
+        "name": "Paper 2 Answerbook (Afrikaans and English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=vqkojgODjBQ%3d&tabid=2922&portalid=0&mid=10141"
+      },
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=4vnOvdyNTu4%3d&tabid=2922&portalid=0&mid=10141"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Rtd487knDWY%3d&tabid=2922&portalid=0&mid=10141"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QyrvPFHWmYo%3d&tabid=2922&portalid=0&mid=10141"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=0itFea4xW-I%3d&tabid=2922&portalid=0&mid=10141"
+      },
+      {
+        "name": "Memo 1 (Afrikaans and English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=9BdSOQbcIic%3d&tabid=2922&portalid=0&mid=10141"
+      }
+    ]
+  },
+
+  {
+    "id": "technical-sciences",
+    "papers": [
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=YvPltknznvo%3d&tabid=2922&portalid=0&mid=10142"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=F28IUhHbxkc%3d&tabid=2922&portalid=0&mid=10142"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=XvnP1oLhOeA%3d&tabid=2922&portalid=0&mid=10142"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=1Mf_bGMWRbc%3d&tabid=2922&portalid=0&mid=10142"
+      },
+      {
+        "name": "Memo 2 (English and Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=wGxJ0ojVqek%3d&tabid=2922&portalid=0&mid=10142"
+      },
+
+      {
+        "name": "Memo 1 (English and Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=JLEYEO71sMw%3d&tabid=2922&portalid=0&mid=10142"
+      }
+    ]
+  },
+
+  {
+    "id": "tourism",
+    "papers": [
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=QNPGo8T33qo%3d&tabid=2922&portalid=0&mid=10143"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=tBDNmFoZB8o%3d&tabid=2922&portalid=0&mid=10143"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=Vby8LNmOhsM%3d&tabid=2922&portalid=0&mid=10143"
+      },
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=2ZHmyd379yk%3d&tabid=2922&portalid=0&mid=10143"
+      }
+    ]
+  },
+
+  {
+    "id": "visual-arts",
+    "papers": [
+      {
+        "name": "Paper 2 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=D-ey6R_Ee24%3d&tabid=2922&portalid=0&mid=10144"
+      },
+      {
+        "name": "Paper 2 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=r006uxdZvQI%3d&tabid=2922&portalid=0&mid=10144"
+      },
+      {
+        "name": "Paper 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=aid5I5DpcA8%3d&tabid=2922&portalid=0&mid=10144"
+      },
+      {
+        "name": "Paper 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=SaWNDkdmD4s%3d&tabid=2922&portalid=0&mid=10144"
+      },
+      {
+        "name": "Memo 1 (English)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=_Ue9Rz-GH9E%3d&tabid=2922&portalid=0&mid=10144"
+      },
+      {
+        "name": "Memo 1 (Afrikaans)",
+        "url": "https://www.education.gov.za/LinkClick.aspx?fileticket=gcckVlajLFo%3d&tabid=2922&portalid=0&mid=10144"
+      }
+    ]
+  }
+]
