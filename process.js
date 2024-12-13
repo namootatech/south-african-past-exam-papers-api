@@ -28,10 +28,18 @@ const randomChars = (length) =>
     String.fromCharCode(Math.floor(Math.random() * 26) + 97)
   ).join('');
 
-const download = async (grade, year, month, paperName, url, paperNumber) => {
+const download = async (
+  grade,
+  year,
+  month,
+  paperName,
+  url,
+  paperNumber,
+  canonicalName
+) => {
   const fs = require('fs');
   const path = `./files/${grade}/${year}/${month}`;
-  const filePath = `${path}/${paperName}-${paperNumber}-${randomChars(3)}.pdf`;
+  const filePath = `${path}/${paperName}-${paperNumber}-${canonicalName}.pdf`;
 
   // Ensure the directory exists
   fs.mkdirSync(path, { recursive: true });
@@ -90,72 +98,33 @@ const downloadAndSaveUrlAndReturnPath = async (
   month,
   paperName,
   url,
-  paperNumber
+  paperNumber,
+  canonicalName
 ) => {
   // Directly await the download to ensure sequential execution
-  await download(grade, year, month, paperName, url, paperNumber);
-  return `./files/${grade}/${year}/${month}/${paperName}.pdf`;
+  await download(
+    grade,
+    year,
+    month,
+    paperName,
+    url,
+    paperNumber,
+    canonicalName
+  );
+  return `./files/${grade}/${year}/${month}/${paperName}-${paperNumber}-${canonicalName}.pdf`;
 };
 
-// const newData = data.map(async (subject) => {
-//   return await Promise.all(
-//     subject.papers.map(async (paper) => {
-// const number =
-//   paper.name.includes('P1') || paper.name.includes('1')
-//     ? 1
-//     : paper.name.includes('P2') || paper.name.includes('2')
-//     ? 2
-//     : paper.name.includes('P3') || paper.name.includes('3')
-//     ? 3
-//     : 0;
-// const type = paper.name.includes('Memo') ? 'memo' : 'paper';
-// const language = paper.name.includes('Afrikaans')
-//   ? 'Afrikaans'
-//   : 'English';
-// console.log(grade, year, month, paper.name, paper.url);
-// const name =
-//   kebabToSentenceCase(subject.id) +
-//   ' - Paper ' +
-//   number +
-//   ' ' +
-//   (type === 'memo' ? kebabToSentenceCase(type) : '') +
-//   ' in ' +
-//   language;
-// const id =
-//   subject.id + '-' + grade + '-' + number + '-' + month + '-' + year;
-// const filePath = downloadAndSaveUrlAndReturnPath(
-//   grade,
-//   year,
-//   month,
-//   id,
-//   paper.url
-// );
-//       return {
-//         ...paper,
-//         number,
-//         subject: kebabToSentenceCase(subject.id),
-//         name,
-//         canonicalName: paper.name,
-//         year,
-//         month,
-//         file: filePath,
-//         type,
-//         examType: month === 'november' ? 'Final' : 'Midterm',
-//         language,
-//         grade,
-//         id,
-//       };
-//     })
-//   );
-// });
-
-//writeoutNewDataToFile();
-
-//console.log(newData);
-// imagine if you could pair this with open data to get metrics on how many people passed this paper
-// use that metric to determine paper difficulty
-// if the data could have infor on which sections were passed more and which ones were passed less
-// we could use that to suggest which sections for the student to focus on
+const provinces = [
+  'Eastern Cape',
+  'Northern Cape',
+  'Western Cape',
+  'Mpumalanga',
+  'North West',
+  'Limpopo',
+  'KwaZulu-Natal',
+  'Free State',
+  'Gauteng',
+];
 
 const toKebab = (str) =>
   str.replace(/([a-z])([A-Z])|[\s]+/g, '$1-$2').toLowerCase();
@@ -175,6 +144,18 @@ const getPaperName = (subject, number, type, language, hasAddendum) =>
   (type === 'memo' ? kebabToSentenceCase(type) : '') +
   ' in ' +
   language;
+
+const containsProvinceWords = (text) =>
+  provinces.some((province) =>
+    text.toLowerCase().includes(province.toLowerCase())
+  );
+
+const getProvinceFromName = (text) => {
+  const province = provinces.find((province) =>
+    text.toLowerCase().includes(province.toLowerCase())
+  );
+  return province ? province : 'not-specified';
+};
 
 const buildPapers = async (grade, year, month, file) => {
   const fs = require('fs');
@@ -239,7 +220,8 @@ const buildPapers = async (grade, year, month, file) => {
         month,
         id,
         `${url}&forcedownload=true`,
-        number
+        number,
+        toKebab(canonicalName)
       );
       papers.push({
         canonicalName,
@@ -247,6 +229,9 @@ const buildPapers = async (grade, year, month, file) => {
         downloadUrl: `${url}&forcedownload=true`,
         name,
         number,
+        province: containsProvinceWords(canonicalName)
+          ? getProvinceFromName(canonicalName)
+          : 'not-specified',
         subject: subject,
         type,
         language,
