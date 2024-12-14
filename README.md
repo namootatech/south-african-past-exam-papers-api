@@ -8,7 +8,7 @@ Currently, it includes Grade 12 papers for the years 2020 to 2023, which amount 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/matric-past-papers.git
+   git clone https://github.com/ayabongaqwabi/south-african-past-exam-papers-api
    ```
 2. Install dependencies:
    ```bash
