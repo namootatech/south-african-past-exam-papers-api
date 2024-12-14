@@ -149,9 +149,8 @@ const getPaperId = (grade, year, month, subjectId, paperNumber) => {
  * @returns {Array} - The IDs for all papers.
  */
 const getAllPaperIds = () => {
-  return allPapersConfig.map((subject) =>
-    subject.papers.map((paper) => paper.id)
-  );
+  console.log(allPapersConfig);
+  return allPapersConfig.map((paper) => paper.id);
 };
 
 /**
