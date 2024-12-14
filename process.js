@@ -264,4 +264,4 @@ const buildPapers = async (grade, year, month, file) => {
   fs.writeFileSync(path, JSON.stringify(newData, null, 2));
 };
 
-buildPapers(12, 2022, 'June', './scrapedData/2022-june-grade-12.json');
+buildPapers(12, 2022, 'November', './scrapedData/2022-nov-grade-12.json');
