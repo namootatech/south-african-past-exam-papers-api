@@ -1,4 +1,4 @@
-const {
+import {
   toPairs,
   omit,
   values,
@@ -11,9 +11,9 @@ const {
   splitEvery,
   head,
   map,
-} = require('ramda');
-const axios = require('axios');
-
+} from 'ramda';
+import axios from 'axios';
+import fs from 'fs';
 const kebabToSentenceCase = (str) =>
   str
     .split('-')
@@ -58,7 +58,6 @@ const download = async (
   canonicalName,
   type
 ) => {
-  const fs = require('fs');
   const path = `../files/${grade}/${year}/${month}`;
   const filePath = `${path}/${paperName}-${paperNumber}-${canonicalName}-${type}.pdf`;
 
@@ -188,7 +187,6 @@ const getProvinceFromName = (text) => {
 };
 
 const buildPapers = async (grade, year, month, file) => {
-  const fs = require('fs');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
 
   const newData = [];
@@ -260,7 +258,21 @@ const buildPapers = async (grade, year, month, file) => {
         month +
         '-' +
         year;
-      '-' + '-paper-' + number + '-' + language;
+      const uniqueId =
+        toKebab(subject) +
+        '-' +
+        grade +
+        '-' +
+        month +
+        '-' +
+        year +
+        '-' +
+        toKebab(canonicalName) +
+        '-' +
+        '-paper-' +
+        number +
+        '-' +
+        language;
       const [filePath, fileSize] = await downloadAndSaveUrlAndReturnPath(
         grade,
         year,
@@ -289,7 +301,7 @@ const buildPapers = async (grade, year, month, file) => {
         year,
         grade,
         month,
-        id,
+        id: uniqueId,
         file: {
           path: filePath,
           size: fileSize,
@@ -321,12 +333,12 @@ const buildPapers = async (grade, year, month, file) => {
 
 const run = async () => {
   await buildPapers(12, 2020, 'June', './2020-nov-grade-12.json');
-  await buildPapers(12, 2021, 'June', './2021-nov-grade-12.json');
-  await buildPapers(12, 2022, 'June', './2022-nov-grade-12.json');
-  await buildPapers(12, 2023, 'June', './2023-nov-grade-12.json');
-  await buildPapers(12, 2021, 'November', './2021-june-grade-12.json');
-  await buildPapers(12, 2022, 'November', './2022-june-grade-12.json');
-  await buildPapers(12, 2023, 'November', './2023-june-grade-12.json');
+  await buildPapers(12, 2021, 'June', './2021-june-grade-12.json');
+  await buildPapers(12, 2022, 'June', './2022-june-grade-12.json');
+  await buildPapers(12, 2023, 'June', './2023-june-grade-12.json');
+  await buildPapers(12, 2021, 'November', './2021-nov-grade-12.json');
+  await buildPapers(12, 2022, 'November', './2022-nov-grade-12.json');
+  await buildPapers(12, 2023, 'November', './2023-nov-grade-12.json');
 };
 
 run();

@@ -1,12 +1,12 @@
-const june2020grade12 = require('./generated/2020-June-grade-12.json');
-const june2021grade12 = require('./generated/2021-June-grade-12.json');
-const november2021grade12 = require('./generated/2021-November-grade-12.json');
-const june2022grade12 = require('./generated/2022-June-grade-12.json');
-const november2022grade12 = require('./generated/2022-November-grade-12.json');
-const june2023grade12 = require('./generated/2023-June-grade-12.json');
-const november2023grade12 = require('./generated/2023-November-grade-12.json');
-const { tail, path, flatten } = require('ramda');
-const fs = require('fs');
+import june2020grade12 from './generated/2020-June-grade-12.json' assert { type: 'json' };
+import june2021grade12 from './generated/2021-June-grade-12.json' assert { type: 'json' };
+import november2021grade12 from './generated/2021-November-grade-12.json' assert { type: 'json' };
+import june2022grade12 from './generated/2022-June-grade-12.json' assert { type: 'json' };
+import november2022grade12 from './generated/2022-November-grade-12.json' assert { type: 'json' };
+import june2023grade12 from './generated/2023-June-grade-12.json' assert { type: 'json' };
+import november2023grade12 from './generated/2023-November-grade-12.json' assert { type: 'json' };
+import { tail, path, flatten } from 'ramda';
+import fs from 'fs';
 
 const grade12 = {
   2020: {
@@ -47,7 +47,7 @@ const configs = {
  * @param {string} month - The month (e.g., 'june').
  * @returns {Array} - The IDs of all subjects.
  */
-const getSubjectIds = (grade, year, month) => {
+export const getSubjectIds = (grade, year, month) => {
   const config = path([grade, year, month], configs);
   return tail(config).map((subject) => subject.id);
 };
@@ -59,7 +59,7 @@ const getSubjectIds = (grade, year, month) => {
  * @param {string} month - The month (e.g., 'june').
  * @returns {Array} - The configuration for all subjects.
  */
-const getSubjectConfigs = (grade, year, month) => {
+export const getSubjectConfigs = (grade, year, month) => {
   const config = path([grade, year, month], configs);
   return tail(config);
 };
@@ -72,7 +72,7 @@ const getSubjectConfigs = (grade, year, month) => {
  * @param {string} subjectId - The ID of the subject.
  * @returns {Object} - The configuration for the specific subject.
  */
-const getSubjectConfig = (grade, year, month, subjectId) => {
+export const getSubjectConfig = (grade, year, month, subjectId) => {
   const config = path([grade, year, month], configs);
   return config.find((subject) => subject.id === subjectId);
 };
@@ -86,7 +86,7 @@ const getSubjectConfig = (grade, year, month, subjectId) => {
  * @param {number} paperNumber - The number of the paper.
  * @returns {Object} - The configuration for the specific paper.
  */
-const getPaperConfig = (grade, year, month, subjectId, paperNumber) => {
+export const getPaperConfig = (grade, year, month, subjectId, paperNumber) => {
   const config = path([grade, year, month], configs);
   return config
     .find((subject) => subject.id === subjectId)
@@ -102,7 +102,7 @@ const getPaperConfig = (grade, year, month, subjectId, paperNumber) => {
  * @param {number} paperNumber - The number of the paper.
  * @returns {Buffer} - The file for the specific paper.
  */
-const getPaperFile = (grade, year, month, subjectId, paperNumber) => {
+export const getPaperFile = (grade, year, month, subjectId, paperNumber) => {
   const config = path([grade, year, month], configs);
   const filePath = config
     .find((subject) => subject.id === subjectId)
@@ -121,7 +121,13 @@ const getPaperFile = (grade, year, month, subjectId, paperNumber) => {
  * @param {number} paperNumber - The number of the paper.
  * @returns {Object} - The configuration for the specific paper file.
  */
-const getPaperFileConfig = (grade, year, month, subjectId, paperNumber) => {
+export const getPaperFileConfig = (
+  grade,
+  year,
+  month,
+  subjectId,
+  paperNumber
+) => {
   const config = path([grade, year, month], configs);
   return config
     .find((subject) => subject.id === subjectId)
@@ -137,7 +143,7 @@ const getPaperFileConfig = (grade, year, month, subjectId, paperNumber) => {
  * @param {number} paperNumber - The number of the paper.
  * @returns {string} - The ID for the specific paper.
  */
-const getPaperId = (grade, year, month, subjectId, paperNumber) => {
+export const getPaperId = (grade, year, month, subjectId, paperNumber) => {
   const config = path([grade, year, month], configs);
   return config
     .find((subject) => subject.id === subjectId)
@@ -148,9 +154,8 @@ const getPaperId = (grade, year, month, subjectId, paperNumber) => {
  * Gets the IDs for all papers.
  * @returns {Array} - The IDs for all papers.
  */
-const getAllPaperIds = () => {
-  console.log(allPapersConfig);
-  return allPapersConfig.map((paper) => paper.id);
+export const getAllPaperIds = () => {
+  return [...new Set(allPapersConfig.map((paper) => paper.id))];
 };
 
 /**
@@ -158,10 +163,8 @@ const getAllPaperIds = () => {
  * @param {string} paperId - The ID of the paper.
  * @returns {Object} - The configuration for the specific paper.
  */
-const getPaperById = (paperId) => {
-  return allPapersConfig.find((subject) =>
-    subject.papers.find((paper) => paper.id === paperId)
-  );
+export const getPaperById = (paperId) => {
+  return allPapersConfig.find((paper) => paper.id === paperId);
 };
 
 /**
@@ -169,17 +172,15 @@ const getPaperById = (paperId) => {
  * @param {string} paperId - The ID of the paper.
  * @returns {Object} - The configuration for the specific paper file.
  */
-const getPaperFileConfigById = (paperId) => {
-  return allPapersConfig.find((subject) =>
-    subject.papers.find((paper) => paper.id === paperId)
-  ).file;
+export const getPaperFileConfigById = (paperId) => {
+  return allPapersConfig.find((paper) => paper.id === paperId).file;
 };
 
 /**
  * Gets the total file size for all papers in MB.
  * @returns {string} - The total file size in MB.
  */
-const getTotalFileSizeInMB = () => {
+export const getTotalFileSizeInMB = () => {
   return (
     allPapersConfig.reduce(
       (totalSize, subject) =>
@@ -198,7 +199,7 @@ const getTotalFileSizeInMB = () => {
  * Gets the total file size for all papers in GB.
  * @returns {string} - The total file size in GB.
  */
-const getTotalFileSizeInGB = () => {
+export const getTotalFileSizeInGB = () => {
   return (
     allPapersConfig.reduce(
       (totalSize, subject) =>
@@ -224,7 +225,7 @@ const getTotalFileSizeInGB = () => {
  * @param {string} language - The language of the paper.
  * @returns {Object} - The paper in the specific language.
  */
-const getPaperInLanguage = (
+export const getPaperInLanguage = (
   grade,
   year,
   month,
@@ -247,7 +248,7 @@ const getPaperInLanguage = (
  * @param {string} subjectId - The ID of the subject.
  * @returns {Array} - The papers for the specific subject.
  */
-const getAllPapersForSubject = (subjectId) => {
+export const getAllPapersForSubject = (subjectId) => {
   return allPapersConfig.filter((subject) => subject.id === subjectId);
 };
 
@@ -255,7 +256,7 @@ const getAllPapersForSubject = (subjectId) => {
  * Gets all papers.
  * @returns {Array} - All papers.
  */
-const getAllPapers = () => {
+export const getAllPapers = () => {
   return allPapersConfig;
 };
 
@@ -264,7 +265,7 @@ const getAllPapers = () => {
  * @param {number} year - The year (e.g., 2020).
  * @returns {Array} - The papers for the specific year.
  */
-const getAllPapersForYear = (year) => {
+export const getAllPapersForYear = (year) => {
   return allPapersConfig.filter((subject) => subject.year === year);
 };
 
@@ -273,7 +274,7 @@ const getAllPapersForYear = (year) => {
  * @param {string} month - The month (e.g., 'june').
  * @returns {Array} - The papers for the specific month.
  */
-const getAllPapersForMonth = (month) => {
+export const getAllPapersForMonth = (month) => {
   return allPapersConfig.filter((subject) => subject.month === month);
 };
 
@@ -281,7 +282,7 @@ const getAllPapersForMonth = (month) => {
  * Gets all language exam papers.
  * @returns {Array} - The language exam papers.
  */
-const getAllLanguageExamPapers = () => {
+export const getAllLanguageExamPapers = () => {
   return allPapersConfig.filter((subject) => subject.isLanguageExam);
 };
 
@@ -290,7 +291,7 @@ const getAllLanguageExamPapers = () => {
  * @param {string} language - The language of the papers.
  * @returns {Array} - The papers in the specific language.
  */
-const getAllPapersInLanguage = (language) => {
+export const getAllPapersInLanguage = (language) => {
   return allPapersConfig.filter(
     (subject) => subject.language.toLowerCase() === language.toLowerCase()
   );
@@ -302,7 +303,7 @@ const getAllPapersInLanguage = (language) => {
  * @param {string} language - The language of the papers.
  * @returns {Array} - The papers in the specific language for the specific year.
  */
-const getAllPapersInLanguageForYear = (year, language) => {
+export const getAllPapersInLanguageForYear = (year, language) => {
   return allPapersConfig.filter(
     (subject) =>
       subject.year === year &&
@@ -314,7 +315,7 @@ const getAllPapersInLanguageForYear = (year, language) => {
  * Gets all extra papers.
  * @returns {Array} - The extra papers.
  */
-const getAllExtraPapers = () => {
+export const getAllExtraPapers = () => {
   return allPapersConfig.filter((subject) => subject.isExtraPaper);
 };
 
@@ -323,31 +324,8 @@ const getAllExtraPapers = () => {
  * @param {number} year - The year (e.g., 2020).
  * @returns {Array} - The extra papers for the specific year.
  */
-const getAllExtraPapersForYear = (year) => {
+export const getAllExtraPapersForYear = (year) => {
   return allPapersConfig.filter(
     (subject) => subject.year === year && subject.isExtraPaper
   );
-};
-
-module.exports = {
-  getSubjectConfig,
-  getPaperConfig,
-  getPaperFile,
-  getPaperFileConfig,
-  getPaperId,
-  getAllPaperIds,
-  getPaperById,
-  getPaperFileConfigById,
-  getTotalFileSizeInMB,
-  getTotalFileSizeInGB,
-  getPaperInLanguage,
-  getAllPapersForSubject,
-  getAllPapers,
-  getAllPapersForYear,
-  getAllPapersForMonth,
-  getAllLanguageExamPapers,
-  getAllPapersInLanguage,
-  getAllPapersInLanguageForYear,
-  getAllExtraPapers,
-  getAllExtraPapersForYear,
 };

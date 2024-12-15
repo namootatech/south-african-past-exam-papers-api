@@ -30,7 +30,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-fal-p1--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-fal-p1-exam.pdf",
           "size": "0.71 MB"
@@ -52,7 +52,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-fal-p1-memo--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-fal-p1-memo-exam.pdf",
           "size": "0.35 MB"
@@ -74,7 +74,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-2-June-2020--paper-2-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-fal-p2--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-2-June-2020-2-afrikaans-fal-p2-exam.pdf",
           "size": "0.88 MB"
@@ -96,7 +96,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-2-June-2020--paper-2-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-fal-p2-memo--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-2-June-2020-2-afrikaans-fal-p2-memo-exam.pdf",
           "size": "0.82 MB"
@@ -118,7 +118,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-3-June-2020--paper-3-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-fal-p3--paper-3-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-3-June-2020-3-afrikaans-fal-p3-exam.pdf",
           "size": "0.40 MB"
@@ -140,7 +140,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-3-June-2020--paper-3-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-fal-p3-memo--paper-3-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-3-June-2020-3-afrikaans-fal-p3-memo-exam.pdf",
           "size": "0.44 MB"
@@ -162,7 +162,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-hl-p1--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-hl-p1-exam.pdf",
           "size": "0.40 MB"
@@ -184,7 +184,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-hl-p1-memo--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-hl-p1-memo-exam.pdf",
           "size": "0.40 MB"
@@ -206,7 +206,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-2-June-2020--paper-2-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-hl-p2--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-2-June-2020-2-afrikaans-hl-p2-exam.pdf",
           "size": "0.57 MB"
@@ -228,7 +228,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-2-June-2020--paper-2-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-hl-p2-memo--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-2-June-2020-2-afrikaans-hl-p2-memo-exam.pdf",
           "size": "0.92 MB"
@@ -250,7 +250,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-3-June-2020--paper-3-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-hl-p3--paper-3-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-3-June-2020-3-afrikaans-hl-p3-exam.pdf",
           "size": "0.40 MB"
@@ -272,7 +272,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-3-June-2020--paper-3-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-hl-p3-memo--paper-3-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-3-June-2020-3-afrikaans-hl-p3-memo-exam.pdf",
           "size": "0.46 MB"
@@ -294,7 +294,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(eastern-cape)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(eastern-cape)-exam.pdf",
           "size": "1.21 MB"
@@ -316,7 +316,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(free-state)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(free-state)-exam.pdf",
           "size": "1.26 MB"
@@ -338,7 +338,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(gauteng)--paper-1-Afrikaans",
         "file": {
           "path": "error-downloading",
           "size": "error-downloading"
@@ -360,7 +360,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(kwa-zulu-natal)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(kwa-zulu-natal)-exam.pdf",
           "size": "1.12 MB"
@@ -382,7 +382,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(limpopo)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(limpopo)-exam.pdf",
           "size": "1.20 MB"
@@ -404,7 +404,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(mpumalanga)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(mpumalanga)-exam.pdf",
           "size": "1.20 MB"
@@ -426,7 +426,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(north-west)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(north-west)-exam.pdf",
           "size": "1.21 MB"
@@ -448,7 +448,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(northern-cape)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(northern-cape)-exam.pdf",
           "size": "1.21 MB"
@@ -470,7 +470,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-(western-cape)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-(western-cape)-exam.pdf",
           "size": "1.16 MB"
@@ -492,7 +492,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(eastern-cape)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(eastern-cape)-exam.pdf",
           "size": "0.43 MB"
@@ -514,7 +514,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(free-state)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(free-state)-exam.pdf",
           "size": "0.46 MB"
@@ -536,7 +536,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(gauteng)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(gauteng)-exam.pdf",
           "size": "0.49 MB"
@@ -558,7 +558,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(kwa-zulu-natal)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(kwa-zulu-natal)-exam.pdf",
           "size": "0.38 MB"
@@ -580,7 +580,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(limpopo)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(limpopo)-exam.pdf",
           "size": "0.38 MB"
@@ -602,7 +602,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(mpumalanga)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(mpumalanga)-exam.pdf",
           "size": "0.46 MB"
@@ -624,7 +624,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(north-west)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(north-west)-exam.pdf",
           "size": "0.38 MB"
@@ -646,7 +646,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(northern-cape)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(northern-cape)-memo.pdf",
           "size": "0.49 MB"
@@ -668,7 +668,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-1-June-2020--paper-1-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p1-memo-(western-cape)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-1-June-2020-1-afrikaans-sal-p1-memo-(western-cape)-exam.pdf",
           "size": "0.42 MB"
@@ -690,7 +690,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-2-June-2020--paper-2-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p2--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-2-June-2020-2-afrikaans-sal-p2-exam.pdf",
           "size": "0.53 MB"
@@ -712,7 +712,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "afrikaans--12-2-June-2020--paper-2-Afrikaans",
+        "id": "afrikaans--12-June-2020-afrikaans-sal-p2-memo--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/afrikaans--12-2-June-2020-2-afrikaans-sal-p2-memo-exam.pdf",
           "size": "0.46 MB"
@@ -744,7 +744,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-1-June-2020--paper-1-English",
+        "id": "english-12-June-2020-english-fal-p1--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/english-12-1-June-2020-1-english-fal-p1-exam.pdf",
           "size": "0.74 MB"
@@ -766,7 +766,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-1-June-2020--paper-1-English",
+        "id": "english-12-June-2020-english-fal-p1-memo--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/english-12-1-June-2020-1-english-fal-p1-memo-exam.pdf",
           "size": "0.27 MB"
@@ -788,7 +788,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-2-June-2020--paper-2-English",
+        "id": "english-12-June-2020-english-fal-p2--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/english-12-2-June-2020-2-english-fal-p2-exam.pdf",
           "size": "0.46 MB"
@@ -810,7 +810,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-2-June-2020--paper-2-English",
+        "id": "english-12-June-2020-english-fal-p2-memo--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/english-12-2-June-2020-2-english-fal-p2-memo-exam.pdf",
           "size": "0.43 MB"
@@ -832,7 +832,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-3-June-2020--paper-3-English",
+        "id": "english-12-June-2020-english-fal-p3--paper-3-English",
         "file": {
           "path": "../files/12/2020/June/english-12-3-June-2020-3-english-fal-p3-exam.pdf",
           "size": "0.57 MB"
@@ -854,7 +854,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-3-June-2020--paper-3-English",
+        "id": "english-12-June-2020-english-fal-p3-memo--paper-3-English",
         "file": {
           "path": "../files/12/2020/June/english-12-3-June-2020-3-english-fal-p3-memo-exam.pdf",
           "size": "0.32 MB"
@@ -876,7 +876,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-1-June-2020--paper-1-English",
+        "id": "english-12-June-2020-english-hl-p1--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/english-12-1-June-2020-1-english-hl-p1-exam.pdf",
           "size": "0.71 MB"
@@ -898,7 +898,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-1-June-2020--paper-1-English",
+        "id": "english-12-June-2020-english-hl-p1-memo--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/english-12-1-June-2020-1-english-hl-p1-memo-exam.pdf",
           "size": "0.25 MB"
@@ -920,7 +920,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-2-June-2020--paper-2-English",
+        "id": "english-12-June-2020-english-hl-p2--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/english-12-2-June-2020-2-english-hl-p2-exam.pdf",
           "size": "0.46 MB"
@@ -942,7 +942,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-2-June-2020--paper-2-English",
+        "id": "english-12-June-2020-english-hl-p2-memo--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/english-12-2-June-2020-2-english-hl-p2-memo-exam.pdf",
           "size": "0.55 MB"
@@ -964,7 +964,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-3-June-2020--paper-3-English",
+        "id": "english-12-June-2020-english-hl-p3--paper-3-English",
         "file": {
           "path": "../files/12/2020/June/english-12-3-June-2020-3-english-hl-p3-exam.pdf",
           "size": "0.53 MB"
@@ -986,7 +986,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "english-12-3-June-2020--paper-3-English",
+        "id": "english-12-June-2020-english-hl-p3-memo--paper-3-English",
         "file": {
           "path": "../files/12/2020/June/english-12-3-June-2020-3-english-hl-p3-memo-exam.pdf",
           "size": "0.35 MB"
@@ -1018,7 +1018,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-1-June-2020--paper-1-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-fal-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-1-June-2020-1-sepedi-fal-p1-exam.pdf",
           "size": "0.46 MB"
@@ -1040,7 +1040,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-1-June-2020--paper-1-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-fal-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-1-June-2020-1-sepedi-fal-p1-memo-exam.pdf",
           "size": "0.38 MB"
@@ -1062,7 +1062,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-2-June-2020--paper-2-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-fal-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-2-June-2020-2-sepedi-fal-p2-exam.pdf",
           "size": "0.54 MB"
@@ -1084,7 +1084,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-2-June-2020--paper-2-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-fal-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-2-June-2020-2-sepedi-fal-p2-memo-exam.pdf",
           "size": "0.42 MB"
@@ -1106,7 +1106,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-3-June-2020--paper-3-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-fal-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-3-June-2020-3-sepedi-fal-p3-exam.pdf",
           "size": "0.30 MB"
@@ -1128,7 +1128,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-3-June-2020--paper-3-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-fal-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-3-June-2020-3-sepedi-fal-p3-memo-memo.pdf",
           "size": "0.39 MB"
@@ -1150,7 +1150,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-1-June-2020--paper-1-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-hl-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-1-June-2020-1-sepedi-hl-p1-exam.pdf",
           "size": "0.40 MB"
@@ -1172,7 +1172,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-1-June-2020--paper-1-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-hl-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-1-June-2020-1-sepedi-hl-p1-memo-exam.pdf",
           "size": "0.28 MB"
@@ -1194,7 +1194,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-2-June-2020--paper-2-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-hl-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-2-June-2020-2-sepedi-hl-p2-exam.pdf",
           "size": "0.64 MB"
@@ -1216,7 +1216,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-2-June-2020--paper-2-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-hl-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-2-June-2020-2-sepedi-hl-p2-memo-exam.pdf",
           "size": "0.49 MB"
@@ -1238,7 +1238,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-3-June-2020--paper-3-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-hl-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-3-June-2020-3-sepedi-hl-p3-exam.pdf",
           "size": "0.26 MB"
@@ -1260,7 +1260,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-3-June-2020--paper-3-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-hl-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-3-June-2020-3-sepedi-hl-p3-memo-exam.pdf",
           "size": "0.35 MB"
@@ -1282,7 +1282,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-1-June-2020--paper-1-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-p1-sal-(limpopo)--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-1-June-2020-1-sepedi-p1-sal-(limpopo)-exam.pdf",
           "size": "0.63 MB"
@@ -1304,7 +1304,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-1-June-2020--paper-1-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-sal-p1-memo-(limpopo)--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-1-June-2020-1-sepedi-sal-p1-memo-(limpopo)-memo.pdf",
           "size": "0.42 MB"
@@ -1326,7 +1326,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-2-June-2020--paper-2-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-sal-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-2-June-2020-2-sepedi-sal-p2-exam.pdf",
           "size": "0.55 MB"
@@ -1348,7 +1348,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "sepedi-12-2-June-2020--paper-2-not-specified",
+        "id": "sepedi-12-June-2020-sepedi-sal-p2-memo---paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/sepedi-12-2-June-2020-2-sepedi-sal-p2-memo--memo.pdf",
           "size": "0.29 MB"
@@ -1380,7 +1380,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-1-June-2020--paper-1-not-specified",
+        "id": "setswana-12-June-2020-setswana-fal-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-1-June-2020-1-setswana-fal-p1-exam.pdf",
           "size": "0.59 MB"
@@ -1402,7 +1402,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-1-June-2020--paper-1-not-specified",
+        "id": "setswana-12-June-2020-setswana-fal-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-1-June-2020-1-setswana-fal-p1-memo-memo.pdf",
           "size": "0.23 MB"
@@ -1424,7 +1424,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-2-June-2020--paper-2-not-specified",
+        "id": "setswana-12-June-2020-setswana-fal-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-2-June-2020-2-setswana-fal-p2-exam.pdf",
           "size": "0.50 MB"
@@ -1446,7 +1446,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-2-June-2020--paper-2-not-specified",
+        "id": "setswana-12-June-2020-setswana-fal-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-2-June-2020-2-setswana-fal-p2-memo-memo.pdf",
           "size": "0.36 MB"
@@ -1468,7 +1468,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-3-June-2020--paper-3-not-specified",
+        "id": "setswana-12-June-2020-setswana-fal-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-3-June-2020-3-setswana-fal-p3-exam.pdf",
           "size": "0.48 MB"
@@ -1490,7 +1490,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-3-June-2020--paper-3-not-specified",
+        "id": "setswana-12-June-2020-setswana-fal-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-3-June-2020-3-setswana-fal-p3-memo-memo.pdf",
           "size": "0.38 MB"
@@ -1512,7 +1512,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-1-June-2020--paper-1-not-specified",
+        "id": "setswana-12-June-2020-setswana-hl-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-1-June-2020-1-setswana-hl-p1-exam.pdf",
           "size": "0.54 MB"
@@ -1534,7 +1534,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-1-June-2020--paper-1-not-specified",
+        "id": "setswana-12-June-2020-setswana-hl-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-1-June-2020-1-setswana-hl-p1-memo-exam.pdf",
           "size": "0.27 MB"
@@ -1556,7 +1556,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-2-June-2020--paper-2-not-specified",
+        "id": "setswana-12-June-2020-setswana-hl-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-2-June-2020-2-setswana-hl-p2-exam.pdf",
           "size": "0.44 MB"
@@ -1578,7 +1578,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-2-June-2020--paper-2-not-specified",
+        "id": "setswana-12-June-2020-setswana-hl-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-2-June-2020-2-setswana-hl-p2-memo-exam.pdf",
           "size": "0.67 MB"
@@ -1600,7 +1600,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-3-June-2020--paper-3-not-specified",
+        "id": "setswana-12-June-2020-setswana-hl-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-3-June-2020-3-setswana-hl-p3-exam.pdf",
           "size": "0.73 MB"
@@ -1622,7 +1622,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "setswana-12-3-June-2020--paper-3-not-specified",
+        "id": "setswana-12-June-2020-setswana-hl-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/setswana-12-3-June-2020-3-setswana-hl-p3-memo-exam.pdf",
           "size": "0.33 MB"
@@ -1654,7 +1654,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-1-June-2020--paper-1-not-specified",
+        "id": "siswati-12-June-2020-siswati-fal-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-1-June-2020-1-siswati-fal-p1-exam.pdf",
           "size": "0.41 MB"
@@ -1676,7 +1676,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-1-June-2020--paper-1-not-specified",
+        "id": "siswati-12-June-2020-siswati-fal-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-1-June-2020-1-siswati-fal-p1-memo-exam.pdf",
           "size": "0.24 MB"
@@ -1698,7 +1698,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-2-June-2020--paper-2-not-specified",
+        "id": "siswati-12-June-2020-siswati-fal-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-2-June-2020-2-siswati-fal-p2-exam.pdf",
           "size": "0.44 MB"
@@ -1720,7 +1720,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-2-June-2020--paper-2-not-specified",
+        "id": "siswati-12-June-2020-siswati-fal-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-2-June-2020-2-siswati-fal-p2-memo-exam.pdf",
           "size": "0.31 MB"
@@ -1742,7 +1742,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-3-June-2020--paper-3-not-specified",
+        "id": "siswati-12-June-2020-siswati-fal-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-3-June-2020-3-siswati-fal-p3-exam.pdf",
           "size": "0.28 MB"
@@ -1764,7 +1764,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-3-June-2020--paper-3-not-specified",
+        "id": "siswati-12-June-2020-siswati-fal-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-3-June-2020-3-siswati-fal-p3-memo-exam.pdf",
           "size": "0.45 MB"
@@ -1786,7 +1786,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-1-June-2020--paper-1-not-specified",
+        "id": "siswati-12-June-2020-siswati-hl-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-1-June-2020-1-siswati-hl-p1-exam.pdf",
           "size": "0.58 MB"
@@ -1808,7 +1808,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-1-June-2020--paper-1-not-specified",
+        "id": "siswati-12-June-2020-siswati-hl-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-1-June-2020-1-siswati-hl-p1-memo-exam.pdf",
           "size": "0.39 MB"
@@ -1830,7 +1830,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-2-June-2020--paper-2-not-specified",
+        "id": "siswati-12-June-2020-siswati-hl-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-2-June-2020-2-siswati-hl-p2-exam.pdf",
           "size": "0.53 MB"
@@ -1852,7 +1852,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-2-June-2020--paper-2-not-specified",
+        "id": "siswati-12-June-2020-siswati-hl-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-2-June-2020-2-siswati-hl-p2-memo-exam.pdf",
           "size": "0.47 MB"
@@ -1874,7 +1874,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-3-June-2020--paper-3-not-specified",
+        "id": "siswati-12-June-2020-siswati-hl-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-3-June-2020-3-siswati-hl-p3-exam.pdf",
           "size": "0.27 MB"
@@ -1896,7 +1896,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "siswati-12-3-June-2020--paper-3-not-specified",
+        "id": "siswati-12-June-2020-siswati-hl-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/siswati-12-3-June-2020-3-siswati-hl-p3-memo-exam.pdf",
           "size": "0.46 MB"
@@ -1928,7 +1928,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "south-african-sign-language-(final)-12-1-June-2020--paper-1-not-specified",
+        "id": "south-african-sign-language-(final)-12-June-2020-sasl-hl-memo-1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/south-african-sign-language-(final)-12-1-June-2020-1-sasl-hl-memo-1-memo.pdf",
           "size": "0.37 MB"
@@ -1950,7 +1950,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "south-african-sign-language-(final)-12-2-June-2020--paper-2-not-specified",
+        "id": "south-african-sign-language-(final)-12-June-2020-sasl-hl-memo-2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/south-african-sign-language-(final)-12-2-June-2020-2-sasl-hl-memo-2-memo.pdf",
           "size": "0.58 MB"
@@ -1972,7 +1972,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "south-african-sign-language-(final)-12-3-June-2020--paper-3-not-specified",
+        "id": "south-african-sign-language-(final)-12-June-2020-sasl-hl-memo-3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/south-african-sign-language-(final)-12-3-June-2020-3-sasl-hl-memo-3-memo.pdf",
           "size": "0.37 MB"
@@ -1994,7 +1994,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "south-african-sign-language-(final)-12-1-June-2020--paper-1-not-specified",
+        "id": "south-african-sign-language-(final)-12-June-2020-sasl-hl-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/south-african-sign-language-(final)-12-1-June-2020-1-sasl-hl-p1-exam.pdf",
           "size": "158.98 MB"
@@ -2016,7 +2016,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "south-african-sign-language-(final)-12-2-June-2020--paper-2-not-specified",
+        "id": "south-african-sign-language-(final)-12-June-2020-sasl-hl-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/south-african-sign-language-(final)-12-2-June-2020-2-sasl-hl-p2-exam.pdf",
           "size": "977.62 MB"
@@ -2038,7 +2038,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "south-african-sign-language-(final)-12-3-June-2020--paper-3-not-specified",
+        "id": "south-african-sign-language-(final)-12-June-2020-sasl-hl-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/south-african-sign-language-(final)-12-3-June-2020-3-sasl-hl-p3-exam.pdf",
           "size": "393.23 MB"
@@ -2070,7 +2070,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-1-June-2020--paper-1-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-fal-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-1-June-2020-1-tshivenda-fal-p1-exam.pdf",
           "size": "1.10 MB"
@@ -2092,7 +2092,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-1-June-2020--paper-1-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-fal-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-1-June-2020-1-tshivenda-fal-p1-memo-exam.pdf",
           "size": "0.50 MB"
@@ -2114,7 +2114,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-2-June-2020--paper-2-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-fal-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-2-June-2020-2-tshivenda-fal-p2-exam.pdf",
           "size": "0.42 MB"
@@ -2136,7 +2136,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-2-June-2020--paper-2-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-fal-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-2-June-2020-2-tshivenda-fal-p2-memo-exam.pdf",
           "size": "0.17 MB"
@@ -2158,7 +2158,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-3-June-2020--paper-3-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-fal-p3---paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-3-June-2020-3-tshivenda-fal-p3--exam.pdf",
           "size": "0.55 MB"
@@ -2180,7 +2180,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-3-June-2020--paper-3-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-fal-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-3-June-2020-3-tshivenda-fal-p3-memo-exam.pdf",
           "size": "0.30 MB"
@@ -2202,7 +2202,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-1-June-2020--paper-1-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-hl-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-1-June-2020-1-tshivenda-hl-p1-exam.pdf",
           "size": "0.64 MB"
@@ -2224,7 +2224,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-1-June-2020--paper-1-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-hl-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-1-June-2020-1-tshivenda-hl-p1-memo-memo.pdf",
           "size": "0.18 MB"
@@ -2246,7 +2246,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-2-June-2020--paper-2-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-hl-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-2-June-2020-2-tshivenda-hl-p2-exam.pdf",
           "size": "0.60 MB"
@@ -2268,7 +2268,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-2-June-2020--paper-2-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-hl-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-2-June-2020-2-tshivenda-hl-p2-memo-memo.pdf",
           "size": "0.42 MB"
@@ -2290,7 +2290,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-3-June-2020--paper-3-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-hl-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-3-June-2020-3-tshivenda-hl-p3-exam.pdf",
           "size": "0.75 MB"
@@ -2312,7 +2312,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tshivenda-12-3-June-2020--paper-3-not-specified",
+        "id": "tshivenda-12-June-2020-tshivenda-hl-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/tshivenda-12-3-June-2020-3-tshivenda-hl-p3-memo-exam.pdf",
           "size": "0.27 MB"
@@ -2344,7 +2344,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-1-June-2020--paper-1-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-fal-p1---paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-1-June-2020-1-xitsonga-fal-p1--exam.pdf",
           "size": "0.56 MB"
@@ -2366,7 +2366,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-1-June-2020--paper-1-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-fal-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-1-June-2020-1-xitsonga-fal-p1-memo-exam.pdf",
           "size": "0.23 MB"
@@ -2388,7 +2388,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-2-June-2020--paper-2-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-fal-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-2-June-2020-2-xitsonga-fal-p2-exam.pdf",
           "size": "0.40 MB"
@@ -2410,7 +2410,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-2-June-2020--paper-2-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-fal-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-2-June-2020-2-xitsonga-fal-p2-memo-exam.pdf",
           "size": "0.33 MB"
@@ -2432,7 +2432,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-3-June-2020--paper-3-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-fal-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-3-June-2020-3-xitsonga-fal-p3-exam.pdf",
           "size": "0.45 MB"
@@ -2454,7 +2454,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-3-June-2020--paper-3-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-fal-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-3-June-2020-3-xitsonga-fal-p3-memo-exam.pdf",
           "size": "0.37 MB"
@@ -2476,7 +2476,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-1-June-2020--paper-1-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-hl-p1--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-1-June-2020-1-xitsonga-hl-p1-exam.pdf",
           "size": "0.39 MB"
@@ -2498,7 +2498,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-1-June-2020--paper-1-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-hl-p1-memo--paper-1-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-1-June-2020-1-xitsonga-hl-p1-memo-memo.pdf",
           "size": "0.28 MB"
@@ -2520,7 +2520,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-2-June-2020--paper-2-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-hl-p2--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-2-June-2020-2-xitsonga-hl-p2-exam.pdf",
           "size": "0.65 MB"
@@ -2542,7 +2542,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-2-June-2020--paper-2-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-hl-p2-memo--paper-2-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-2-June-2020-2-xitsonga-hl-p2-memo-memo.pdf",
           "size": "0.62 MB"
@@ -2564,7 +2564,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-3-June-2020--paper-3-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-hl-p3--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-3-June-2020-3-xitsonga-hl-p3-exam.pdf",
           "size": "0.44 MB"
@@ -2586,7 +2586,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "xitsonga-12-3-June-2020--paper-3-not-specified",
+        "id": "xitsonga-12-June-2020-xitsonga-hl-p3-memo--paper-3-not-specified",
         "file": {
           "path": "../files/12/2020/June/xitsonga-12-3-June-2020-3-xitsonga-hl-p3-memo-memo.pdf",
           "size": "0.28 MB"
@@ -2626,7 +2626,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-1-June-2020--paper-1-Afrikaans",
+        "id": "accounting-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.38 MB"
@@ -2648,7 +2648,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-1-June-2020--paper-1-English",
+        "id": "accounting-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/accounting-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.38 MB"
@@ -2670,7 +2670,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-2-June-2020--paper-2-Afrikaans",
+        "id": "accounting-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.47 MB"
@@ -2692,7 +2692,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-2-June-2020--paper-2-English",
+        "id": "accounting-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/accounting-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.41 MB"
@@ -2714,7 +2714,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-2-June-2020--paper-2-English",
+        "id": "accounting-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/accounting-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.41 MB"
@@ -2736,7 +2736,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-1-June-2020--paper-1-Afrikaans",
+        "id": "accounting-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.32 MB"
@@ -2758,7 +2758,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-1-June-2020--paper-1-English",
+        "id": "accounting-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/accounting-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.31 MB"
@@ -2780,7 +2780,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-1-June-2020--paper-1-Afrikaans",
+        "id": "accounting-12-June-2020-paper-1-answer-book-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-12-1-June-2020-1-paper-1-answer-book-(afrikaans)-exam.pdf",
           "size": "0.24 MB"
@@ -2802,7 +2802,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-1-June-2020--paper-1-English",
+        "id": "accounting-12-June-2020-paper-1-answer-book-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/accounting-12-1-June-2020-1-paper-1-answer-book-(english)-exam.pdf",
           "size": "0.23 MB"
@@ -2824,7 +2824,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-2-June-2020--paper-2-Afrikaans",
+        "id": "accounting-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.44 MB"
@@ -2846,7 +2846,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-2-June-2020--paper-2-English",
+        "id": "accounting-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/accounting-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.43 MB"
@@ -2868,7 +2868,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-2-June-2020--paper-2-Afrikaans",
+        "id": "accounting-12-June-2020-paper-2-answerbook-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-12-2-June-2020-2-paper-2-answerbook-(afrikaans)-exam.pdf",
           "size": "0.25 MB"
@@ -2890,7 +2890,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-12-2-June-2020--paper-2-English",
+        "id": "accounting-12-June-2020-paper-2-answerbook-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/accounting-12-2-June-2020-2-paper-2-answerbook-(english)-exam.pdf",
           "size": "0.26 MB"
@@ -2923,7 +2923,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-(senior-certificate)-12-1-June-2020--paper-1-English",
+        "id": "accounting-(senior-certificate)-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/accounting-(senior-certificate)-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.51 MB"
@@ -2945,7 +2945,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-(senior-certificate)-12-1-June-2020--paper-1-Afrikaans",
+        "id": "accounting-(senior-certificate)-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-(senior-certificate)-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.51 MB"
@@ -2967,7 +2967,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-(senior-certificate)-12-1-June-2020--paper-1-English",
+        "id": "accounting-(senior-certificate)-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/accounting-(senior-certificate)-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.50 MB"
@@ -2989,7 +2989,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-(senior-certificate)-12-1-June-2020--paper-1-Afrikaans",
+        "id": "accounting-(senior-certificate)-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-(senior-certificate)-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.59 MB"
@@ -3011,7 +3011,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-(senior-certificate)-12-0-June-2020--paper-0-English",
+        "id": "accounting-(senior-certificate)-12-June-2020-answerbook-(english)--paper-0-English",
         "file": {
           "path": "../files/12/2020/June/accounting-(senior-certificate)-12-0-June-2020-0-answerbook-(english)-exam.pdf",
           "size": "0.33 MB"
@@ -3033,7 +3033,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "accounting-(senior-certificate)-12-0-June-2020--paper-0-Afrikaans",
+        "id": "accounting-(senior-certificate)-12-June-2020-answerbook-(afrikaans)--paper-0-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/accounting-(senior-certificate)-12-0-June-2020-0-answerbook-(afrikaans)-exam.pdf",
           "size": "0.33 MB"
@@ -3066,7 +3066,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-management-practices-12-1-June-2020--paper-1-Afrikaans",
+        "id": "agricultural-management-practices-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-management-practices-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.36 MB"
@@ -3088,7 +3088,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-management-practices-12-1-June-2020--paper-1-English",
+        "id": "agricultural-management-practices-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-management-practices-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.39 MB"
@@ -3110,7 +3110,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-management-practices-12-1-June-2020--paper-1-Afrikaans",
+        "id": "agricultural-management-practices-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-management-practices-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.32 MB"
@@ -3132,7 +3132,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-management-practices-12-1-June-2020--paper-1-English",
+        "id": "agricultural-management-practices-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-management-practices-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.42 MB"
@@ -3165,7 +3165,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "agricultural-sciences-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.53 MB"
@@ -3187,7 +3187,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-1-June-2020--paper-1-English",
+        "id": "agricultural-sciences-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.51 MB"
@@ -3209,7 +3209,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "agricultural-sciences-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.65 MB"
@@ -3231,7 +3231,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-2-June-2020--paper-2-English",
+        "id": "agricultural-sciences-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.57 MB"
@@ -3253,7 +3253,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "agricultural-sciences-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.87 MB"
@@ -3275,7 +3275,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-1-June-2020--paper-1-English",
+        "id": "agricultural-sciences-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.87 MB"
@@ -3297,7 +3297,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "agricultural-sciences-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.37 MB"
@@ -3319,7 +3319,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-sciences-12-2-June-2020--paper-2-English",
+        "id": "agricultural-sciences-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-sciences-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.37 MB"
@@ -3352,7 +3352,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "agricultural-technology-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-technology-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.36 MB"
@@ -3374,7 +3374,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-technology-12-1-June-2020--paper-1-English",
+        "id": "agricultural-technology-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-technology-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.40 MB"
@@ -3396,7 +3396,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "agricultural-technology-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/agricultural-technology-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.58 MB"
@@ -3418,7 +3418,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "agricultural-technology-12-1-June-2020--paper-1-English",
+        "id": "agricultural-technology-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/agricultural-technology-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.57 MB"
@@ -3451,7 +3451,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "business-studies-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.55 MB"
@@ -3473,7 +3473,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-1-June-2020--paper-1-English",
+        "id": "business-studies-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.51 MB"
@@ -3495,7 +3495,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-2-June-2020--paper-2-Afrikaans",
+        "id": "business-studies-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.58 MB"
@@ -3517,7 +3517,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-2-June-2020--paper-2-English",
+        "id": "business-studies-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.61 MB"
@@ -3539,7 +3539,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "business-studies-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.31 MB"
@@ -3561,7 +3561,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-1-June-2020--paper-1-English",
+        "id": "business-studies-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.31 MB"
@@ -3583,7 +3583,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-2-June-2020--paper-2-Afrikaans",
+        "id": "business-studies-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.37 MB"
@@ -3605,7 +3605,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-12-2-June-2020--paper-2-English",
+        "id": "business-studies-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/business-studies-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.37 MB"
@@ -3638,7 +3638,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-(senior-certificate)-12-1-June-2020--paper-1-English",
+        "id": "business-studies-(senior-certificate)-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/business-studies-(senior-certificate)-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.41 MB"
@@ -3660,7 +3660,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-(senior-certificate)-12-1-June-2020--paper-1-Afrikaans",
+        "id": "business-studies-(senior-certificate)-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/business-studies-(senior-certificate)-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.41 MB"
@@ -3682,7 +3682,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-(senior-certificate)-12-1-June-2020--paper-1-English",
+        "id": "business-studies-(senior-certificate)-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/business-studies-(senior-certificate)-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.79 MB"
@@ -3704,7 +3704,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "business-studies-(senior-certificate)-12-1-June-2020--paper-1-Afrikaans",
+        "id": "business-studies-(senior-certificate)-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/business-studies-(senior-certificate)-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.77 MB"
@@ -3737,7 +3737,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-English",
+        "id": "civil-technology-12-June-2020--civil-services-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1--civil-services-paper-1-(english)-exam.pdf",
           "size": "0.84 MB"
@@ -3759,7 +3759,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "civil-technology-12-June-2020--woodworking-memo-1-(afrikaans)---paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1--woodworking-memo-1-(afrikaans)--memo.pdf",
           "size": "0.70 MB"
@@ -3781,7 +3781,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-English",
+        "id": "civil-technology-12-June-2020--woodworking-memo-1-(english)---paper-1-English",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1--woodworking-memo-1-(english)--memo.pdf",
           "size": "0.68 MB"
@@ -3803,7 +3803,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "civil-technology-12-June-2020--woodworking-paper-1-(afrikaans)---paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1--woodworking-paper-1-(afrikaans)--exam.pdf",
           "size": "0.91 MB"
@@ -3825,7 +3825,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "civil-technology-12-June-2020-civil-services-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-civil-services-memo-1-(afrikaans)-memo.pdf",
           "size": "0.55 MB"
@@ -3847,7 +3847,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-English",
+        "id": "civil-technology-12-June-2020-civil-services-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-civil-services-memo-1-(english)-memo.pdf",
           "size": "0.44 MB"
@@ -3869,7 +3869,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "civil-technology-12-June-2020-civil-services-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-civil-services-paper-1-(afrikaans)-exam.pdf",
           "size": "0.85 MB"
@@ -3891,7 +3891,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "civil-technology-12-June-2020-construction-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-construction-memo-1-(afrikaans)-memo.pdf",
           "size": "0.59 MB"
@@ -3913,7 +3913,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-English",
+        "id": "civil-technology-12-June-2020-construction-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-construction-memo-1-(english)-memo.pdf",
           "size": "0.47 MB"
@@ -3935,7 +3935,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "civil-technology-12-June-2020-construction-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-construction-paper-1-(afrikaans)-exam.pdf",
           "size": "0.84 MB"
@@ -3957,7 +3957,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-English",
+        "id": "civil-technology-12-June-2020-construction-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-construction-paper-1-(english)-exam.pdf",
           "size": "0.81 MB"
@@ -3979,7 +3979,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "civil-technology-12-1-June-2020--paper-1-English",
+        "id": "civil-technology-12-June-2020-woodworking-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/civil-technology-12-1-June-2020-1-woodworking-paper-1-(english)-exam.pdf",
           "size": "0.91 MB"
@@ -4012,7 +4012,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-0-June-2020--paper-0-not-specified",
+        "id": "computer-application-technology-12-June-2020-data-files-(ms-office)--paper-0-not-specified",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-0-June-2020-0-data-files-(ms-office)-exam.pdf",
           "size": "1.38 MB"
@@ -4034,7 +4034,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "computer-application-technology-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.56 MB"
@@ -4056,7 +4056,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-1-June-2020--paper-1-English",
+        "id": "computer-application-technology-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.60 MB"
@@ -4078,7 +4078,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-2-June-2020--paper-2-Afrikaans",
+        "id": "computer-application-technology-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.42 MB"
@@ -4100,7 +4100,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-2-June-2020--paper-2-English",
+        "id": "computer-application-technology-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.46 MB"
@@ -4122,7 +4122,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "computer-application-technology-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.86 MB"
@@ -4144,7 +4144,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-1-June-2020--paper-1-English",
+        "id": "computer-application-technology-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.85 MB"
@@ -4166,7 +4166,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-2-June-2020--paper-2-Afrikaans",
+        "id": "computer-application-technology-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.49 MB"
@@ -4188,7 +4188,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "computer-application-technology-12-2-June-2020--paper-2-English",
+        "id": "computer-application-technology-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/computer-application-technology-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.48 MB"
@@ -4221,7 +4221,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "consumer-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "consumer-studies-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/consumer-studies-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.48 MB"
@@ -4243,7 +4243,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "consumer-studies-12-1-June-2020--paper-1-English",
+        "id": "consumer-studies-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/consumer-studies-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.47 MB"
@@ -4265,7 +4265,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "consumer-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "consumer-studies-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/consumer-studies-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.60 MB"
@@ -4287,7 +4287,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "consumer-studies-12-1-June-2020--paper-1-English",
+        "id": "consumer-studies-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/consumer-studies-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.60 MB"
@@ -4320,7 +4320,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dance-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "dance-studies-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/dance-studies-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.43 MB"
@@ -4342,7 +4342,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dance-studies-12-1-June-2020--paper-1-English",
+        "id": "dance-studies-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/dance-studies-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.44 MB"
@@ -4364,7 +4364,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dance-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "dance-studies-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/dance-studies-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.39 MB"
@@ -4386,7 +4386,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dance-studies-12-1-June-2020--paper-1-English",
+        "id": "dance-studies-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/dance-studies-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.39 MB"
@@ -4419,7 +4419,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "design-12-1-June-2020--paper-1-Afrikaans",
+        "id": "design-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/design-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "1.22 MB"
@@ -4441,7 +4441,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "design-12-1-June-2020--paper-1-English",
+        "id": "design-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/design-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "1.10 MB"
@@ -4463,7 +4463,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "design-12-1-June-2020--paper-1-Afrikaans",
+        "id": "design-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/design-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.97 MB"
@@ -4485,7 +4485,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "design-12-1-June-2020--paper-1-English",
+        "id": "design-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/design-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.97 MB"
@@ -4507,7 +4507,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "design-12-2-June-2020--paper-2-Afrikaans",
+        "id": "design-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/design-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "4.22 MB"
@@ -4529,7 +4529,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "design-12-2-June-2020--paper-2-English",
+        "id": "design-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/design-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "4.22 MB"
@@ -4562,7 +4562,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dramatic-arts-12-1-June-2020--paper-1-Afrikaans",
+        "id": "dramatic-arts-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/dramatic-arts-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.61 MB"
@@ -4584,7 +4584,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dramatic-arts-12-1-June-2020--paper-1-English",
+        "id": "dramatic-arts-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/dramatic-arts-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.68 MB"
@@ -4606,7 +4606,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dramatic-arts-12-1-June-2020--paper-1-Afrikaans",
+        "id": "dramatic-arts-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/dramatic-arts-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.93 MB"
@@ -4628,7 +4628,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "dramatic-arts-12-1-June-2020--paper-1-English",
+        "id": "dramatic-arts-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/dramatic-arts-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.75 MB"
@@ -4661,7 +4661,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-1-June-2020--paper-1-Afrikaans",
+        "id": "economics-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/economics-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.36 MB"
@@ -4683,7 +4683,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-1-June-2020--paper-1-English",
+        "id": "economics-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/economics-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.41 MB"
@@ -4705,7 +4705,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-2-June-2020--paper-2-Afrikaans",
+        "id": "economics-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/economics-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.37 MB"
@@ -4727,7 +4727,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-2-June-2020--paper-2-English",
+        "id": "economics-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/economics-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.38 MB"
@@ -4749,7 +4749,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-1-June-2020--paper-1-Afrikaans",
+        "id": "economics-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/economics-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.41 MB"
@@ -4771,7 +4771,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-1-June-2020--paper-1-English",
+        "id": "economics-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/economics-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.41 MB"
@@ -4793,7 +4793,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-2-June-2020--paper-2-Afrikaans",
+        "id": "economics-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/economics-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.50 MB"
@@ -4815,7 +4815,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "economics-12-2-June-2020--paper-2-English",
+        "id": "economics-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/economics-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.56 MB"
@@ -4848,7 +4848,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "electrical-technology-12-June-2020-digitals-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-digitals-memo-1-(afrikaans)-memo.pdf",
           "size": "0.93 MB"
@@ -4870,7 +4870,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-English",
+        "id": "electrical-technology-12-June-2020-digitals-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-digitals-memo-1-(english)-memo.pdf",
           "size": "0.99 MB"
@@ -4892,7 +4892,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "electrical-technology-12-June-2020-digitals-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-digitals-paper-1-(afrikaans)-exam.pdf",
           "size": "1.03 MB"
@@ -4914,7 +4914,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-English",
+        "id": "electrical-technology-12-June-2020-digitals-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-digitals-paper-1-(english)-exam.pdf",
           "size": "1.02 MB"
@@ -4936,7 +4936,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "electrical-technology-12-June-2020-electronics-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-electronics-memo-1-(afrikaans)-memo.pdf",
           "size": "0.50 MB"
@@ -4958,7 +4958,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-English",
+        "id": "electrical-technology-12-June-2020-electronics-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-electronics-memo-1-(english)-memo.pdf",
           "size": "0.59 MB"
@@ -4980,7 +4980,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "electrical-technology-12-June-2020-electronics-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-electronics-paper-1-(afrikaans)-exam.pdf",
           "size": "0.64 MB"
@@ -5002,7 +5002,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-English",
+        "id": "electrical-technology-12-June-2020-electronics-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-electronics-paper-1-(english)-exam.pdf",
           "size": "0.64 MB"
@@ -5024,7 +5024,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "electrical-technology-12-June-2020-power-systems-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-power-systems-memo-1-(afrikaans)-memo.pdf",
           "size": "0.75 MB"
@@ -5046,7 +5046,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-English",
+        "id": "electrical-technology-12-June-2020-power-systems-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-power-systems-memo-1-(english)-memo.pdf",
           "size": "0.60 MB"
@@ -5068,7 +5068,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "electrical-technology-12-June-2020-power-systems-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-power-systems-paper-1-(afrikaans)-exam.pdf",
           "size": "0.72 MB"
@@ -5090,7 +5090,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "electrical-technology-12-1-June-2020--paper-1-English",
+        "id": "electrical-technology-12-June-2020-power-systems-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/electrical-technology-12-1-June-2020-1-power-systems-paper-1-(english)-exam.pdf",
           "size": "0.73 MB"
@@ -5123,7 +5123,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-1-June-2020--paper-1-Afrikaans",
+        "id": "engineering-graphic-and-design-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.51 MB"
@@ -5145,7 +5145,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-1-June-2020--paper-1-English",
+        "id": "engineering-graphic-and-design-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.54 MB"
@@ -5167,7 +5167,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-2-June-2020--paper-2-Afrikaans",
+        "id": "engineering-graphic-and-design-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.52 MB"
@@ -5189,7 +5189,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-2-June-2020--paper-2-English",
+        "id": "engineering-graphic-and-design-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.56 MB"
@@ -5211,7 +5211,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-1-June-2020--paper-1-Afrikaans",
+        "id": "engineering-graphic-and-design-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "1.34 MB"
@@ -5233,7 +5233,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-1-June-2020--paper-1-English",
+        "id": "engineering-graphic-and-design-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "1.36 MB"
@@ -5255,7 +5255,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-2-June-2020--paper-2-Afrikaans",
+        "id": "engineering-graphic-and-design-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "1.21 MB"
@@ -5277,7 +5277,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "engineering-graphic-and-design-12-2-June-2020--paper-2-English",
+        "id": "engineering-graphic-and-design-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/engineering-graphic-and-design-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "1.21 MB"
@@ -5310,7 +5310,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-1-June-2020--paper-1-Afrikaans",
+        "id": "geography-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/geography-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.55 MB"
@@ -5332,7 +5332,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-1-June-2020--paper-1-English",
+        "id": "geography-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/geography-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.70 MB"
@@ -5354,7 +5354,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-2-June-2020--paper-2-Afrikaans",
+        "id": "geography-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/geography-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.70 MB"
@@ -5376,7 +5376,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-2-June-2020--paper-2-English",
+        "id": "geography-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/geography-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.69 MB"
@@ -5398,7 +5398,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-1-June-2020--paper-1-Afrikaans",
+        "id": "geography-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/geography-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.42 MB"
@@ -5420,7 +5420,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-1-June-2020--paper-1-English",
+        "id": "geography-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/geography-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.49 MB"
@@ -5442,7 +5442,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-1-June-2020--paper-1-Afrikaans",
+        "id": "geography-12-June-2020-paper-1-annexure-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/geography-12-1-June-2020-1-paper-1-annexure-(afrikaans)-exam.pdf",
           "size": "1.15 MB"
@@ -5464,7 +5464,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-1-June-2020--paper-1-English",
+        "id": "geography-12-June-2020-paper-1-annexure-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/geography-12-1-June-2020-1-paper-1-annexure-(english)-exam.pdf",
           "size": "1.15 MB"
@@ -5486,7 +5486,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-2-June-2020--paper-2-Afrikaans",
+        "id": "geography-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/geography-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.53 MB"
@@ -5508,7 +5508,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "geography-12-2-June-2020--paper-2-English",
+        "id": "geography-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/geography-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.59 MB"
@@ -5541,7 +5541,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-1-June-2020--paper-1-Afrikaans",
+        "id": "history-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/history-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.43 MB"
@@ -5563,7 +5563,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-1-June-2020--paper-1-English",
+        "id": "history-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/history-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.50 MB"
@@ -5585,7 +5585,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-2-June-2020--paper-2-Afrikaans",
+        "id": "history-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/history-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.49 MB"
@@ -5607,7 +5607,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-2-June-2020--paper-2-English",
+        "id": "history-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/history-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.47 MB"
@@ -5629,7 +5629,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-1-June-2020--paper-1-Afrikaans",
+        "id": "history-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/history-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.25 MB"
@@ -5651,7 +5651,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-1-June-2020--paper-1-English",
+        "id": "history-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/history-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.33 MB"
@@ -5673,7 +5673,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-1-June-2020--paper-1-Afrikaans",
+        "id": "history-12-June-2020-paper-1-addendum-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/history-12-1-June-2020-1-paper-1-addendum-(afrikaans)-extra-paper.pdf",
           "size": "0.34 MB"
@@ -5695,7 +5695,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-1-June-2020--paper-1-English",
+        "id": "history-12-June-2020-paper-1-addendum-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/history-12-1-June-2020-1-paper-1-addendum-(english)-extra-paper.pdf",
           "size": "0.34 MB"
@@ -5717,7 +5717,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-2-June-2020--paper-2-Afrikaans",
+        "id": "history-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/history-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.20 MB"
@@ -5739,7 +5739,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-2-June-2020--paper-2-English",
+        "id": "history-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/history-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.20 MB"
@@ -5761,7 +5761,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-2-June-2020--paper-2-Afrikaans",
+        "id": "history-12-June-2020-paper-2-addendum-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/history-12-2-June-2020-2-paper-2-addendum-(afrikaans)-extra-paper.pdf",
           "size": "0.57 MB"
@@ -5783,7 +5783,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "history-12-2-June-2020--paper-2-English",
+        "id": "history-12-June-2020-paper-2-addendum-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/history-12-2-June-2020-2-paper-2-addendum-(english)-extra-paper.pdf",
           "size": "0.56 MB"
@@ -5816,7 +5816,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "hospitality-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "hospitality-studies-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/hospitality-studies-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.36 MB"
@@ -5838,7 +5838,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "hospitality-studies-12-1-June-2020--paper-1-English",
+        "id": "hospitality-studies-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/hospitality-studies-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.33 MB"
@@ -5860,7 +5860,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "hospitality-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "hospitality-studies-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/hospitality-studies-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.53 MB"
@@ -5882,7 +5882,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "hospitality-studies-12-1-June-2020--paper-1-English",
+        "id": "hospitality-studies-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/hospitality-studies-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.52 MB"
@@ -5915,7 +5915,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-0-June-2020--paper-0-not-specified",
+        "id": "information-technology-12-June-2020-data-files--paper-0-not-specified",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-0-June-2020-0-data-files-exam.pdf",
           "size": "0.29 MB"
@@ -5937,7 +5937,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "information-technology-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.47 MB"
@@ -5959,7 +5959,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-1-June-2020--paper-1-English",
+        "id": "information-technology-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.50 MB"
@@ -5981,7 +5981,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-2-June-2020--paper-2-Afrikaans",
+        "id": "information-technology-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.36 MB"
@@ -6003,7 +6003,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-2-June-2020--paper-2-English",
+        "id": "information-technology-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.33 MB"
@@ -6025,7 +6025,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "information-technology-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.89 MB"
@@ -6047,7 +6047,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-1-June-2020--paper-1-English",
+        "id": "information-technology-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.97 MB"
@@ -6069,7 +6069,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-2-June-2020--paper-2-Afrikaans",
+        "id": "information-technology-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.43 MB"
@@ -6091,7 +6091,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "information-technology-12-2-June-2020--paper-2-English",
+        "id": "information-technology-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/information-technology-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.44 MB"
@@ -6124,7 +6124,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "life-sciences-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.25 MB"
@@ -6146,7 +6146,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-1-June-2020--paper-1-English",
+        "id": "life-sciences-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.24 MB"
@@ -6168,7 +6168,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "life-sciences-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.28 MB"
@@ -6190,7 +6190,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-2-June-2020--paper-2-English",
+        "id": "life-sciences-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.27 MB"
@@ -6212,7 +6212,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "life-sciences-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.62 MB"
@@ -6234,7 +6234,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-1-June-2020--paper-1-English",
+        "id": "life-sciences-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.62 MB"
@@ -6256,7 +6256,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "life-sciences-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.56 MB"
@@ -6278,7 +6278,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "life-sciences-12-2-June-2020--paper-2-English",
+        "id": "life-sciences-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/life-sciences-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.55 MB"
@@ -6311,7 +6311,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mathematical-literacy-12-June-2020-memo-1-(afrikaans-and-english)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-1-June-2020-1-memo-1-(afrikaans-and-english)-memo.pdf",
           "size": "0.55 MB"
@@ -6333,7 +6333,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-2-June-2020--paper-2-Afrikaans",
+        "id": "mathematical-literacy-12-June-2020-memo-2-(afrikaans-and-english)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-2-June-2020-2-memo-2-(afrikaans-and-english)-memo.pdf",
           "size": "0.73 MB"
@@ -6355,7 +6355,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mathematical-literacy-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.83 MB"
@@ -6377,7 +6377,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-1-June-2020--paper-1-English",
+        "id": "mathematical-literacy-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.82 MB"
@@ -6399,7 +6399,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mathematical-literacy-12-June-2020-paper-1-addendum-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-1-June-2020-1-paper-1-addendum-(afrikaans)-extra-paper.pdf",
           "size": "0.24 MB"
@@ -6421,7 +6421,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-1-June-2020--paper-1-English",
+        "id": "mathematical-literacy-12-June-2020-paper-1-addendum-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-1-June-2020-1-paper-1-addendum-(english)-extra-paper.pdf",
           "size": "0.24 MB"
@@ -6443,7 +6443,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-2-June-2020--paper-2-Afrikaans",
+        "id": "mathematical-literacy-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.54 MB"
@@ -6465,7 +6465,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-2-June-2020--paper-2-English",
+        "id": "mathematical-literacy-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.53 MB"
@@ -6487,7 +6487,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-2-June-2020--paper-2-Afrikaans",
+        "id": "mathematical-literacy-12-June-2020-paper-2-addendum-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-2-June-2020-2-paper-2-addendum-(afrikaans)-extra-paper.pdf",
           "size": "0.28 MB"
@@ -6509,7 +6509,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematical-literacy-12-2-June-2020--paper-2-English",
+        "id": "mathematical-literacy-12-June-2020-paper-2-addendum-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/mathematical-literacy-12-2-June-2020-2-paper-2-addendum-(english)-extra-paper.pdf",
           "size": "0.28 MB"
@@ -6542,7 +6542,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematics-12-2-June-2020--paper-2-Afrikaans",
+        "id": "mathematics-12-June-2020-paper-2-answerbook-(english-&-afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematics-12-2-June-2020-2-paper-2-answerbook-(english-&-afrikaans)-exam.pdf",
           "size": "1.07 MB"
@@ -6564,7 +6564,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematics-12-2-June-2020--paper-2-English",
+        "id": "mathematics-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/mathematics-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.52 MB"
@@ -6586,7 +6586,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematics-12-2-June-2020--paper-2-Afrikaans",
+        "id": "mathematics-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematics-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.54 MB"
@@ -6608,7 +6608,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematics-12-1-June-2020--paper-1-English",
+        "id": "mathematics-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mathematics-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.32 MB"
@@ -6630,7 +6630,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematics-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mathematics-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematics-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.32 MB"
@@ -6652,7 +6652,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematics-12-2-June-2020--paper-2-Afrikaans",
+        "id": "mathematics-12-June-2020-memo-2-(afrikaans-&-english)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematics-12-2-June-2020-2-memo-2-(afrikaans-&-english)-memo.pdf",
           "size": "0.86 MB"
@@ -6674,7 +6674,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mathematics-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mathematics-12-June-2020-memo-1-(afrikaans-and-english)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mathematics-12-1-June-2020-1-memo-1-(afrikaans-and-english)-memo.pdf",
           "size": "0.73 MB"
@@ -6707,7 +6707,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-English",
+        "id": "mechanical-technology-12-June-2020-welding-and-metalwork-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-welding-and-metalwork-paper-1-(english)-exam.pdf",
           "size": "0.88 MB"
@@ -6729,7 +6729,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mechanical-technology-12-June-2020-welding-and-metalwork-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-welding-and-metalwork-paper-1-(afrikaans)-exam.pdf",
           "size": "0.71 MB"
@@ -6751,7 +6751,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-English",
+        "id": "mechanical-technology-12-June-2020-welding-and-metalwork-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-welding-and-metalwork-memo-1-(english)-memo.pdf",
           "size": "0.49 MB"
@@ -6773,7 +6773,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mechanical-technology-12-June-2020-welding-and-metalwork-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-welding-and-metalwork-memo-1-(afrikaans)-memo.pdf",
           "size": "0.56 MB"
@@ -6795,7 +6795,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-English",
+        "id": "mechanical-technology-12-June-2020-fitting-and-machining-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-fitting-and-machining-paper-1-(english)-exam.pdf",
           "size": "0.50 MB"
@@ -6817,7 +6817,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mechanical-technology-12-June-2020-fitting-and-machining-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-fitting-and-machining-paper-1-(afrikaans)-exam.pdf",
           "size": "0.47 MB"
@@ -6839,7 +6839,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-English",
+        "id": "mechanical-technology-12-June-2020-fitting-and-machining-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-fitting-and-machining-memo-1-(english)-memo.pdf",
           "size": "0.62 MB"
@@ -6861,7 +6861,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mechanical-technology-12-June-2020-fitting-and-machining-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-fitting-and-machining-memo-1-(afrikaans)-memo.pdf",
           "size": "0.63 MB"
@@ -6883,7 +6883,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-English",
+        "id": "mechanical-technology-12-June-2020-automotive-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-automotive-paper-1-(english)-exam.pdf",
           "size": "0.47 MB"
@@ -6905,7 +6905,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mechanical-technology-12-June-2020-automotive-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-automotive-paper-1-(afrikaans)-exam.pdf",
           "size": "0.47 MB"
@@ -6927,7 +6927,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-English",
+        "id": "mechanical-technology-12-June-2020-automotive-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-automotive-memo-1-(english)-memo.pdf",
           "size": "0.42 MB"
@@ -6949,7 +6949,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "mechanical-technology-12-1-June-2020--paper-1-Afrikaans",
+        "id": "mechanical-technology-12-June-2020-automotive-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/mechanical-technology-12-1-June-2020-1-automotive-memo-1-(afrikaans)-memo.pdf",
           "size": "0.42 MB"
@@ -6982,7 +6982,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-2-June-2020--paper-2-English",
+        "id": "music-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/music-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.56 MB"
@@ -7004,7 +7004,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-2-June-2020--paper-2-Afrikaans",
+        "id": "music-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/music-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.55 MB"
@@ -7026,7 +7026,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-1-June-2020--paper-1-English",
+        "id": "music-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/music-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.77 MB"
@@ -7048,7 +7048,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-1-June-2020--paper-1-Afrikaans",
+        "id": "music-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/music-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.77 MB"
@@ -7070,7 +7070,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-2-June-2020--paper-2-English",
+        "id": "music-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/music-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.63 MB"
@@ -7092,7 +7092,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-2-June-2020--paper-2-Afrikaans",
+        "id": "music-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/music-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.58 MB"
@@ -7114,7 +7114,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-1-June-2020--paper-1-English",
+        "id": "music-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/music-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "1.15 MB"
@@ -7136,7 +7136,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "music-12-1-June-2020--paper-1-Afrikaans",
+        "id": "music-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/music-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "1.14 MB"
@@ -7169,7 +7169,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "physical-sciences-12-2-June-2020--paper-2-English",
+        "id": "physical-sciences-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/physical-sciences-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.85 MB"
@@ -7191,7 +7191,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "physical-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "physical-sciences-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/physical-sciences-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.85 MB"
@@ -7213,7 +7213,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "physical-sciences-12-1-June-2020--paper-1-English",
+        "id": "physical-sciences-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/physical-sciences-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.48 MB"
@@ -7235,7 +7235,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "physical-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "physical-sciences-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/physical-sciences-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.48 MB"
@@ -7257,7 +7257,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "physical-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "physical-sciences-12-June-2020-memo-2-(english-&-afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/physical-sciences-12-2-June-2020-2-memo-2-(english-&-afrikaans)-memo.pdf",
           "size": "0.64 MB"
@@ -7279,7 +7279,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "physical-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "physical-sciences-12-June-2020-memo-1-(english-&-afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/physical-sciences-12-1-June-2020-1-memo-1-(english-&-afrikaans)-memo.pdf",
           "size": "0.67 MB"
@@ -7312,7 +7312,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-2-June-2020--paper-2-English",
+        "id": "religion-studies-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.10 MB"
@@ -7334,7 +7334,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-2-June-2020--paper-2-Afrikaans",
+        "id": "religion-studies-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.10 MB"
@@ -7356,7 +7356,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-1-June-2020--paper-1-English",
+        "id": "religion-studies-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.22 MB"
@@ -7378,7 +7378,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "religion-studies-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.23 MB"
@@ -7400,7 +7400,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-2-June-2020--paper-2-English",
+        "id": "religion-studies-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.32 MB"
@@ -7422,7 +7422,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-2-June-2020--paper-2-Afrikaans",
+        "id": "religion-studies-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.46 MB"
@@ -7444,7 +7444,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-1-June-2020--paper-1-English",
+        "id": "religion-studies-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.27 MB"
@@ -7466,7 +7466,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-12-1-June-2020--paper-1-Afrikaans",
+        "id": "religion-studies-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.33 MB"
@@ -7499,7 +7499,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-2-June-2020--paper-2-English",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.25 MB"
@@ -7521,7 +7521,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-2-June-2020--paper-2-Afrikaans",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.12 MB"
@@ -7543,7 +7543,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-1-June-2020--paper-1-English",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.23 MB"
@@ -7565,7 +7565,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-1-June-2020--paper-1-Afrikaans",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.23 MB"
@@ -7587,7 +7587,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-2-June-2020--paper-2-English",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-memo-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-2-June-2020-2-memo-2-(english)-memo.pdf",
           "size": "0.40 MB"
@@ -7609,7 +7609,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-2-June-2020--paper-2-Afrikaans",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-memo-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-2-June-2020-2-memo-2-(afrikaans)-memo.pdf",
           "size": "0.47 MB"
@@ -7631,7 +7631,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-1-June-2020--paper-1-English",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.31 MB"
@@ -7653,7 +7653,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "religion-studies-(senior-certificate)-12-1-June-2020--paper-1-Afrikaans",
+        "id": "religion-studies-(senior-certificate)-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/religion-studies-(senior-certificate)-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.32 MB"
@@ -7686,7 +7686,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-mathematics-12-2-June-2020--paper-2-Afrikaans",
+        "id": "technical-mathematics-12-June-2020-paper-2-answerbook-(afrikaans-and-english)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-mathematics-12-2-June-2020-2-paper-2-answerbook-(afrikaans-and-english)-exam.pdf",
           "size": "1.00 MB"
@@ -7708,7 +7708,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-mathematics-12-2-June-2020--paper-2-English",
+        "id": "technical-mathematics-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/technical-mathematics-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.59 MB"
@@ -7730,7 +7730,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-mathematics-12-2-June-2020--paper-2-Afrikaans",
+        "id": "technical-mathematics-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-mathematics-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.60 MB"
@@ -7752,7 +7752,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-mathematics-12-1-June-2020--paper-1-English",
+        "id": "technical-mathematics-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/technical-mathematics-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.46 MB"
@@ -7774,7 +7774,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-mathematics-12-1-June-2020--paper-1-Afrikaans",
+        "id": "technical-mathematics-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-mathematics-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.68 MB"
@@ -7796,7 +7796,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-mathematics-12-1-June-2020--paper-1-Afrikaans",
+        "id": "technical-mathematics-12-June-2020-memo-1-(afrikaans-and-english)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-mathematics-12-1-June-2020-1-memo-1-(afrikaans-and-english)-memo.pdf",
           "size": "1.01 MB"
@@ -7829,7 +7829,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-sciences-12-2-June-2020--paper-2-English",
+        "id": "technical-sciences-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/technical-sciences-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "0.80 MB"
@@ -7851,7 +7851,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "technical-sciences-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-sciences-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "0.88 MB"
@@ -7873,7 +7873,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-sciences-12-1-June-2020--paper-1-English",
+        "id": "technical-sciences-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/technical-sciences-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "0.87 MB"
@@ -7895,7 +7895,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "technical-sciences-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-sciences-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "0.87 MB"
@@ -7917,7 +7917,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-sciences-12-2-June-2020--paper-2-Afrikaans",
+        "id": "technical-sciences-12-June-2020-memo-2-(english-and-afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-sciences-12-2-June-2020-2-memo-2-(english-and-afrikaans)-memo.pdf",
           "size": "0.59 MB"
@@ -7939,7 +7939,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "technical-sciences-12-1-June-2020--paper-1-Afrikaans",
+        "id": "technical-sciences-12-June-2020-memo-1-(english-and-afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/technical-sciences-12-1-June-2020-1-memo-1-(english-and-afrikaans)-memo.pdf",
           "size": "0.49 MB"
@@ -7972,7 +7972,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tourism-12-1-June-2020--paper-1-English",
+        "id": "tourism-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/tourism-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "3.51 MB"
@@ -7994,7 +7994,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tourism-12-1-June-2020--paper-1-Afrikaans",
+        "id": "tourism-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/tourism-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "3.52 MB"
@@ -8016,7 +8016,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tourism-12-1-June-2020--paper-1-English",
+        "id": "tourism-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/tourism-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.43 MB"
@@ -8038,7 +8038,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "tourism-12-1-June-2020--paper-1-Afrikaans",
+        "id": "tourism-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/tourism-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.45 MB"
@@ -8071,7 +8071,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "visual-arts-12-2-June-2020--paper-2-English",
+        "id": "visual-arts-12-June-2020-paper-2-(english)--paper-2-English",
         "file": {
           "path": "../files/12/2020/June/visual-arts-12-2-June-2020-2-paper-2-(english)-exam.pdf",
           "size": "3.10 MB"
@@ -8093,7 +8093,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "visual-arts-12-2-June-2020--paper-2-Afrikaans",
+        "id": "visual-arts-12-June-2020-paper-2-(afrikaans)--paper-2-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/visual-arts-12-2-June-2020-2-paper-2-(afrikaans)-exam.pdf",
           "size": "3.11 MB"
@@ -8115,7 +8115,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "visual-arts-12-1-June-2020--paper-1-English",
+        "id": "visual-arts-12-June-2020-paper-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/visual-arts-12-1-June-2020-1-paper-1-(english)-exam.pdf",
           "size": "1.85 MB"
@@ -8137,7 +8137,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "visual-arts-12-1-June-2020--paper-1-Afrikaans",
+        "id": "visual-arts-12-June-2020-paper-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/visual-arts-12-1-June-2020-1-paper-1-(afrikaans)-exam.pdf",
           "size": "1.86 MB"
@@ -8159,7 +8159,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "visual-arts-12-1-June-2020--paper-1-English",
+        "id": "visual-arts-12-June-2020-memo-1-(english)--paper-1-English",
         "file": {
           "path": "../files/12/2020/June/visual-arts-12-1-June-2020-1-memo-1-(english)-memo.pdf",
           "size": "0.58 MB"
@@ -8181,7 +8181,7 @@
         "year": 2020,
         "grade": 12,
         "month": "June",
-        "id": "visual-arts-12-1-June-2020--paper-1-Afrikaans",
+        "id": "visual-arts-12-June-2020-memo-1-(afrikaans)--paper-1-Afrikaans",
         "file": {
           "path": "../files/12/2020/June/visual-arts-12-1-June-2020-1-memo-1-(afrikaans)-memo.pdf",
           "size": "0.36 MB"

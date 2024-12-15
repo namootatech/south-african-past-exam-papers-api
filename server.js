@@ -273,6 +273,62 @@ app.get('/all-extra-papers-for-year/:year', (req, res) => {
   res.json(result);
 });
 
+/**
+ * @route GET /total-file-size-in-mb
+ * @description Get the total file size in MB
+ * @returns {number} The total file size in MB
+ */
+app.get('/total-file-size-in-mb', (req, res) => {
+  const result = getTotalFileSizeInMB();
+  res.json(result);
+});
+
+/**
+ * @route GET /total-file-size-in-gb
+ * @description Get the total file size in GB
+ * @returns {number} The total file size in GB
+ */
+app.get('/total-file-size-in-gb', (req, res) => {
+  const result = getTotalFileSizeInGB();
+  res.json(result);
+});
+
+/**
+ * @route GET /paper-by-id/:paperId
+ * @description Get a paper by its ID
+ * @param {string} paperId - The ID of the paper
+ * @returns {object} The paper object with its details
+ */
+app.get('/paper-by-id/:paperId', (req, res) => {
+  const { paperId } = req.params;
+  const result = getPaperById(paperId);
+  res.json(result);
+});
+
+/**
+ * @route GET /paper-file-by-id/:paperId
+ * @description Get the file configuration by its ID
+ * @param {string} paperId - The ID of the file configuration
+ * @returns {object} The file configuration object with its details
+ */
+app.get('/paper-file-by-id/:paperId', (req, res) => {
+  const { paperId } = req.params;
+  const result = getPaperFileConfigById(paperId);
+  res.json(result);
+});
+
+/**
+ * @route GET /paper-file-config-by-id/:paperId
+ * @description Get the file configuration by its ID
+ * @param {string} paperId - The ID of the file configuration
+ * @returns {object} The file configuration object with its details
+ */
+app.get('/paper-file-config-by-id/:paperId', (req, res) => {
+  const { paperId } = req.params;
+  const result = getPaperFileConfig(paperId);
+  res.json(result);
+});
+
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
