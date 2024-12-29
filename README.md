@@ -151,3 +151,10 @@ The server will start on `http://localhost:3000`.
 ## Conclusion
 
 This API server provides a comprehensive set of endpoints to access and manage exam papers and their configurations. It is designed to be easily extendable and maintainable.
+
+# South African Exam Papers Api
+# South African Past Exam Papers Api
+# South African Past Exam Papers and Memos Api
+# Matric Exam Papers Api
+# Matric Papers Api
+
