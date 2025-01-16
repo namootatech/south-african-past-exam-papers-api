@@ -158,3 +158,7 @@ This API server provides a comprehensive set of endpoints to access and manage e
 # Matric Exam Papers Api
 # Matric Papers Api
 
+Created by Ayabonga Qwabi 
+Contact aya@qwabi.co.za
+This project is a project of Namoota Technology an initiative by www.qwabi.co.za
+
